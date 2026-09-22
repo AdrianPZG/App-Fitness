@@ -1,0 +1,14 @@
+# Servidor
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+sqlmodel==0.0.42
+pydantic-settings==2.15.0
+httpx==0.28.1
+
+# Autenticacion (verifica tokens de Firebase con las llaves publicas de Google)
+google-auth==2.58.0
+requests==2.34.2
+CacheControl==0.14.4
+
+# Pruebas
+pytest==9.1.1

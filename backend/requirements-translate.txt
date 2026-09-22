@@ -1,0 +1,3 @@
+# Solo para scripts/translate_instructions.py (traduccion automatica offline
+# de las instrucciones de ejercicios). No hace falta instalarlo para correr el servidor.
+argostranslate==1.11.0
