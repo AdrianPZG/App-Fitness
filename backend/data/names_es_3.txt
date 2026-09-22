@@ -1,0 +1,276 @@
+601|Paseo con rickshaw
+602|Peso muerto con rickshaw
+603|Fondos en anillas
+604|Salto cohete
+605|Elevación de talones de pie con balanceo
+606|Dominadas/jalones Rocky
+607|Peso muerto rumano
+608|Peso muerto rumano con déficit
+609|Trepar la cuerda
+610|Crunch con cuerda
+611|Saltar la cuerda
+612|Jalón con cuerda y brazos rectos
+613|Estiramiento de hombros vuelta al mundo
+614|Remo en máquina estática
+615|Estiramiento del corredor
+616|Correr en cinta
+617|Giro ruso
+618|Carga de saco de arena
+619|Dominada escapular
+620|Patada de tijera
+621|Salto de tijera
+622|Curl de isquiotibiales sentado con banda
+623|Press militar sentado con barra
+624|Giro sentado con barra
+625|Extensión de tríceps inclinado sentado a un brazo con mancuerna
+626|Elevación posterior inclinado sentado
+627|Extensión de tríceps inclinado sentado a dos brazos con mancuerna
+628|Bíceps sentado
+629|Remo sentado en polea
+630|Press de hombros sentado en polea
+631|Elevación de talones sentado
+632|Estiramiento de pantorrilla sentado
+633|Curl de concentración sentado con barra, agarre cerrado
+634|Curl sentado con mancuernas
+635|Curl sentado con mancuernas para bíceps interno
+636|Curl de muñeca sentado con mancuernas, palmas hacia abajo
+637|Curl de muñeca sentado con mancuernas, palmas hacia arriba
+638|Press sentado con mancuernas
+639|Recogida de piernas sentado en banco plano
+640|Estiramiento de isquiotibiales sentado en el suelo
+641|Deltoides frontal sentado
+642|Glúteo sentado
+643|Buenos días sentado
+644|Isquiotibiales sentado
+645|Estiramiento de isquiotibiales y pantorrilla sentado
+646|Resistencia de cuello sentado con arnés
+647|Curl de piernas sentado
+648|Recogida de piernas sentado
+649|Curl de muñeca sentado a un brazo con mancuerna, palma hacia abajo
+650|Curl de muñeca sentado a un brazo con mancuerna, palma hacia arriba
+651|Remo sentado a un brazo en polea
+652|Estiramiento sentado sobre la cabeza
+653|Curl de muñeca sentado con barra, palmas hacia arriba
+654|Curl de muñeca sentado con barra, palmas hacia abajo
+655|Elevación lateral sentado
+656|Press de tríceps sentado
+657|Curl de muñeca sentado a dos brazos en polea baja, palmas hacia arriba
+658|Press balancín (press lateral alterno)
+659|Remo escopeta
+660|Círculos de hombros
+661|Press de hombros con bandas
+662|Elevación de hombros
+663|Estiramiento de hombros
+664|Estiramiento tumbado de lado
+665|Puente lateral
+666|Sprint con saltos laterales
+667|Navaja lateral
+668|Elevación lateral
+669|Elevaciones laterales a frontales
+670|Elevaciones laterales de pierna
+671|Estiramiento de ingle tumbado de lado
+672|Estiramiento lateral de cuello
+673|Salto largo lateral de pie
+674|Dominadas de lado a lado
+675|Tirón lateral de muñeca
+676|Desplazamientos laterales sobre el cajón
+677|Cruce de poleas a un brazo
+678|Landmine lineal a un brazo
+679|Flexión a un brazo
+680|Sprint alrededor de un cono
+681|Sentadilla a una pierna al cajón alto
+682|Progresión de saltos a una pierna
+683|Salto lateral a una pierna
+684|Extensión de pierna individual
+685|Salto de zancada a una pierna
+686|Elevación con una mancuerna
+687|Patada de glúteo a una pierna
+688|Puente de glúteo a una pierna
+689|Impulso a una pierna
+690|Abdominal sit-up
+691|Sentadillas sentado
+692|Patinaje
+693|Arrastre de trineo con arnés
+694|Caminata hacia atrás con trineo sobre la cabeza
+695|Extensión de tríceps con trineo sobre la cabeza
+696|Empuje de trineo
+697|Aperturas posteriores con trineo
+698|Remo con trineo
+699|Golpes con mazo
+700|Elevación de hombros inclinada en máquina Smith
+701|Encogimientos por detrás en máquina Smith
+702|Press de banca en máquina Smith
+703|Remo inclinado en máquina Smith
+704|Elevación de talones en máquina Smith
+705|Press de banca con agarre cerrado en máquina Smith
+706|Press declinado en máquina Smith
+707|Cargada de potencia colgante en máquina Smith
+708|Elevación de cadera en máquina Smith
+709|Press de banca inclinado en máquina Smith
+710|Prensa de piernas en máquina Smith
+711|Remo al mentón a un brazo en máquina Smith
+712|Press de hombros sobre la cabeza en máquina Smith
+713|Sentadilla pistola en máquina Smith
+714|Elevación de talones inversa en máquina Smith
+715|Sentadilla en máquina Smith
+716|Peso muerto con piernas rígidas en máquina Smith
+717|Remo al mentón en máquina Smith
+718|Sentadilla dividida a una pierna en máquina Smith
+719|Arranque
+720|Balance de arranque
+721|Peso muerto de arranque
+722|Tirón de arranque
+723|Encogimiento de arranque
+724|Arranque desde bloques
+725|Tríceps sobre la cabeza con banda de velocidad
+726|Sentadilla al cajón rápida
+727|Sentadillas rápidas
+728|Lanzador de hechizos
+729|Gateo de araña
+730|Curl araña
+731|Estiramiento de columna
+732|Cargada dividida
+733|Envión dividido
+734|Salto con zancada
+735|Arranque dividido
+736|Sentadilla dividida con mancuernas
+737|Sentadillas divididas
+738|Envión con sentadilla
+739|Sentadilla con bandas
+740|Sentadilla con cadenas
+741|Sentadilla con movedores de discos
+742|Sentadillas con bandas
+743|Máquina de escaleras
+744|Press alterno de pie con mancuernas
+745|Elevación de talones de pie con barra
+746|Press de pie con barra tras la nuca
+747|Extensión de tríceps inclinado de pie a un brazo con mancuerna
+748|Extensión de tríceps inclinado de pie a dos brazos con mancuerna
+749|Curl de bíceps de pie en polea
+750|Estiramiento de bíceps de pie
+751|Press Bradford de pie
+752|Press de pecho de pie en polea
+753|Elevación de pie en polea
+754|Leñador de pie en polea
+755|Elevación de talones de pie
+756|Curl de concentración de pie
+757|Elevación de talones de pie con mancuerna
+758|Press de pie con mancuernas
+759|Curl inverso de pie con mancuernas
+760|Elevación frontal de deltoides con brazos rectos sobre la cabeza, de pie, con mancuernas
+761|Extensión de tríceps de pie con mancuerna
+762|Remo al mentón de pie con mancuernas
+763|Estiramiento de cuádriceps de pie con pie elevado
+764|Elevación frontal de pie con barra sobre la cabeza
+765|Estiramiento de gemelos de pie
+766|Estiramiento de isquiotibiales y pantorrilla de pie
+767|Círculos de cadera de pie
+768|Flexores de cadera de pie
+769|Curl de bíceps interno de pie
+770|Estiramiento lateral de pie
+771|Curl de pierna de pie
+772|Salto largo de pie
+773|Elevación de deltoides de pie en polea baja
+774|Extensión de tríceps de pie a un brazo en polea baja
+775|Press militar de pie
+776|Apretón de disco olímpico de pie
+777|Curl de pie a un brazo en polea
+778|Curl de pie a un brazo con mancuerna sobre banco inclinado
+779|Extensión de tríceps de pie a un brazo con mancuerna
+780|Extensión de tríceps de pie con barra sobre la cabeza
+781|Press de pie a un brazo con mancuerna, palma hacia dentro
+782|Press de pie con mancuernas, palmas hacia dentro
+783|Curl de muñeca de pie con barra por detrás, palmas hacia arriba
+784|Inclinación pélvica de pie
+785|Crunch de pie con cuerda
+786|Estiramiento de sóleo y tendón de Aquiles de pie
+787|Toques de punta de pie de pie
+788|Extensión de tríceps de pie con toalla
+789|Lanzamiento de pie con dos brazos sobre la cabeza
+790|Salto estrella
+791|Subida al cajón con elevación de rodilla
+792|Máquina de escalones
+793|Peso muerto con barra y piernas rígidas
+794|Peso muerto con mancuernas y piernas rígidas
+795|Buenos días con barra y piernas rígidas
+796|Vacío abdominal
+797|Pullover con mancuerna y brazos rectos
+798|Jalón con brazos rectos
+799|Remo medio con barra recta en banco
+800|Elevaciones rectas en banco inclinado
+801|Salto de zancada cruzado
+802|Peso muerto sumo
+803|Peso muerto sumo con bandas
+804|Peso muerto sumo con cadenas
+805|Superman
+806|Lanzamiento de pecho boca arriba
+807|Lanzamiento a un brazo sobre la cabeza boca arriba
+808|Lanzamiento a dos brazos sobre la cabeza boca arriba
+809|Fallout suspendido
+810|Flexión suspendida
+811|Crunch inverso suspendido
+812|Remo suspendido
+813|Sentadilla dividida suspendida
+814|Press Svend
+815|Remo en T con mango
+816|Press Tate
+817|El compás
+818|Abductores de muslo
+819|Aductores de muslo
+820|Volteo de neumático
+821|Toques de punta de pie
+822|Rotación de torso
+823|Correr/caminar en sendero
+824|Peso muerto con barra hexagonal
+825|Patada de tríceps con mancuerna
+826|Estiramiento lateral de tríceps
+827|Extensión de tríceps sobre la cabeza con cuerda
+828|Jalón de tríceps en polea
+829|Jalón de tríceps con cuerda
+830|Jalón de tríceps con barra en V
+831|Estiramiento de tríceps
+832|Crunch con rodillas recogidas
+833|Curl predicador a dos brazos con mancuernas
+834|Cargada a dos brazos con pesa rusa
+835|Envión a dos brazos con pesa rusa
+836|Press militar a dos brazos con pesa rusa
+837|Remo a dos brazos con pesa rusa
+838|Jalones en polea con agarre supino
+839|Agarre de pierna para espalda alta
+840|Estiramiento de espalda alta
+841|Remo al mentón con barra
+842|Remo al mentón en polea
+843|Remo al mentón con bandas
+844|Estiramiento hacia arriba
+845|Jalón con barra en V
+846|Dominada con barra en V
+847|Swing vertical
+848|Caminar en cinta
+849|Hiperextensión con balón con peso
+850|Flexión lateral con balón con peso
+851|Fondos en banco con peso
+852|Crunch con peso
+853|Sentadilla con salto con peso
+854|Dominadas con peso
+855|Sentadilla sissy con peso
+856|Abdominales con peso y bandas
+857|Sentadilla con peso
+858|Press de banca con barra, agarre ancho
+859|Press de banca declinado con barra, agarre ancho
+860|Pullover declinado con barra, agarre ancho
+861|Jalón al pecho, agarre ancho
+862|Jalón tras la nuca, agarre ancho
+863|Dominada con agarre ancho tras la nuca
+864|Curl de pie con barra, agarre ancho
+865|Sentadilla con barra, postura amplia
+866|Piernas rígidas con postura amplia
+867|Sprints de viento
+868|Molinos
+869|El mejor estiramiento del mundo
+870|Círculos de muñeca
+871|Rodillo de muñeca
+872|Rotaciones de muñeca con barra recta
+873|Caminata con yugo
+874|Sentadillas Zercher
+875|Curl Zottman
+876|Curl predicador Zottman

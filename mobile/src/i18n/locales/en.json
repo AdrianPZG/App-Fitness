@@ -1,0 +1,200 @@
+{
+  "tabs": {
+    "today": "Today",
+    "train": "Train",
+    "nutrition": "Nutrition",
+    "wellbeing": "Wellbeing",
+    "profile": "Profile"
+  },
+  "today": {
+    "title": "Today",
+    "empty": "You don't have an active plan yet.",
+    "choosePlan": "Choose a plan",
+    "workout": "Today: {{kind}}",
+    "rest": "Today is a rest day."
+  },
+  "train": {
+    "title": "Train",
+    "library": "Exercise library",
+    "premium": "Available with a subscription",
+    "locked": "Subscription",
+    "search": "Search exercises"
+  },
+  "nutrition": {
+    "title": "Nutrition",
+    "soon": "Coming soon",
+    "daily": "Daily target",
+    "macroLine": "Protein {{p}} g · Carbs {{c}} g · Fat {{f}} g",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "fiber": "Fiber",
+    "water": "Water",
+    "meals": "Split by meal",
+    "meal": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "snack": "Snack",
+      "dinner": "Dinner"
+    },
+    "warning": {
+      "underweight_no_deficit": "Your BMI is in the underweight range, so we don't apply a calorie deficit. Please talk to a health professional.",
+      "calorie_floor": "We set your calories to the safe minimum.",
+      "review_goal": "With your current BMI, review this goal with a health professional."
+    },
+    "disclaimer": "Rough estimate, not a substitute for advice from a doctor or dietitian.",
+    "menuToday": "Today's menu",
+    "otherOptions": "Other options",
+    "vegetarian": "Vegetarian",
+    "menuTotal": "Menu total: {{kcal}} kcal (target {{target}} kcal)"
+  },
+  "wellbeing": {
+    "title": "Wellbeing",
+    "sleep": "Sleep",
+    "cycle": "Cycle"
+  },
+  "profile": {
+    "title": "Profile",
+    "data": "My details",
+    "height": "Height",
+    "weight": "Weight",
+    "sex": "Sex",
+    "goal": "Goal",
+    "settings": "Settings",
+    "language": "Language",
+    "subscription": "Subscription",
+    "trial": "7 days free, then 50 MXN per month",
+    "signOut": "Sign out"
+  },
+  "goals": {
+    "lose_weight": "Lose weight",
+    "gain_weight": "Gain weight",
+    "build_muscle": "Build muscle",
+    "stay_fit": "Stay in shape",
+    "stay_active": "Stay active",
+    "eat_better": "Improve my eating"
+  },
+  "common": {
+    "error": "Couldn't reach the server."
+  },
+  "auth": {
+    "welcome": "Welcome",
+    "subtitle": "Sign in to save your progress.",
+    "email": "Email",
+    "continue": "Continue with email",
+    "phone": "Continue with phone",
+    "google": "Continue with Google",
+    "devNote": "Development mode: phone and Google will be enabled once Firebase is connected.",
+    "createAccount": "Create account",
+    "signIn": "Sign in",
+    "password": "Password",
+    "passwordHint": "At least 6 characters",
+    "noAccount": "Create an account",
+    "haveAccount": "I already have an account",
+    "forgot": "Forgot my password",
+    "resetSent": "If the email is registered, we sent you a link to reset your password.",
+    "nativeNote": "Phone and Google sign-in will be available in the installed version of the app.",
+    "error": {
+      "invalidCredentials": "Wrong email or password.",
+      "emailInUse": "That email already has an account. Sign in instead.",
+      "weakPassword": "The password is too weak. Use at least 6 characters.",
+      "tooManyRequests": "Too many attempts. Wait a few minutes and try again.",
+      "network": "No connection. Check your internet.",
+      "enterEmail": "Enter your email to reset your password.",
+      "generic": "We couldn't complete that. Please try again."
+    }
+  },
+  "onboarding": {
+    "title": "Tell us about you",
+    "name": "Name",
+    "height": "Height (cm)",
+    "weight": "Weight (kg)",
+    "male": "Male",
+    "female": "Female",
+    "finish": "Save and start",
+    "age": "Age",
+    "activity": "Current activity level",
+    "equipment": "Where do you train",
+    "home": "At home",
+    "gym": "Gym"
+  },
+  "activity": {
+    "sedentary": "Sedentary (little or no exercise)",
+    "light": "Light (1-2 days a week)",
+    "moderate": "Moderate (3-4 days a week)",
+    "active": "Active (5+ days a week)"
+  },
+  "plan": {
+    "title": "My weekly plan",
+    "day": "Day {{n}}",
+    "rest": "rest {{s}} s",
+    "summary": "{{days}} days a week · {{level}} level",
+    "locked": "Your plan needs a subscription or an active free trial.",
+    "level": {
+      "beginner": "beginner",
+      "intermediate": "intermediate"
+    },
+    "kind": {
+      "full": "Full body",
+      "upper": "Upper body",
+      "lower": "Lower body",
+      "push": "Push",
+      "pull": "Pull",
+      "legs": "Legs",
+      "cardio": "Cardio",
+      "mobility": "Mobility"
+    }
+  },
+  "exercise": {
+    "muscle": "Primary muscle",
+    "equipment": "Equipment",
+    "level": "Level",
+    "steps": "How to do it",
+    "lockedInfo": "Instructions for this exercise are available with a subscription."
+  },
+  "muscle": {
+    "abdominals": "Abs",
+    "abductors": "Abductors",
+    "adductors": "Adductors",
+    "biceps": "Biceps",
+    "calves": "Calves",
+    "chest": "Chest",
+    "forearms": "Forearms",
+    "glutes": "Glutes",
+    "hamstrings": "Hamstrings",
+    "lats": "Lats",
+    "lower back": "Lower back",
+    "middle back": "Middle back",
+    "neck": "Neck",
+    "quadriceps": "Quads",
+    "shoulders": "Shoulders",
+    "traps": "Traps",
+    "triceps": "Triceps"
+  },
+  "equipment": {
+    "body only": "Bodyweight",
+    "dumbbell": "Dumbbells",
+    "barbell": "Barbell",
+    "machine": "Machine",
+    "cable": "Cable",
+    "kettlebells": "Kettlebell",
+    "bands": "Resistance bands",
+    "medicine ball": "Medicine ball",
+    "exercise ball": "Stability ball",
+    "e-z curl bar": "EZ bar",
+    "foam roll": "Foam roller",
+    "other": "Other"
+  },
+  "level": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "expert": "Advanced"
+  },
+  "recipe": {
+    "calories": "Calories",
+    "time": "Prep time",
+    "portion": "Portion",
+    "ingredients": "Ingredients",
+    "steps": "Step by step"
+  }
+}

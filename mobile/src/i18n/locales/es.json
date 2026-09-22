@@ -1,0 +1,200 @@
+{
+  "tabs": {
+    "today": "Hoy",
+    "train": "Entrenar",
+    "nutrition": "Nutrición",
+    "wellbeing": "Bienestar",
+    "profile": "Perfil"
+  },
+  "today": {
+    "title": "Hoy",
+    "empty": "Aún no tienes un plan activo.",
+    "choosePlan": "Elegir un plan",
+    "workout": "Hoy toca: {{kind}}",
+    "rest": "Hoy es día de descanso."
+  },
+  "train": {
+    "title": "Entrenar",
+    "library": "Biblioteca de ejercicios",
+    "premium": "Disponible con suscripción",
+    "locked": "Con suscripción",
+    "search": "Buscar ejercicio"
+  },
+  "nutrition": {
+    "title": "Nutrición",
+    "soon": "Próximamente",
+    "daily": "Meta diaria",
+    "macroLine": "Proteína {{p}} g · Carbohidratos {{c}} g · Grasa {{f}} g",
+    "protein": "Proteína",
+    "carbs": "Carbohidratos",
+    "fat": "Grasa",
+    "fiber": "Fibra",
+    "water": "Agua",
+    "meals": "Reparto por comida",
+    "meal": {
+      "breakfast": "Desayuno",
+      "lunch": "Comida",
+      "snack": "Colación",
+      "dinner": "Cena"
+    },
+    "warning": {
+      "underweight_no_deficit": "Tu IMC indica bajo peso, así que no aplicamos déficit calórico. Consulta a un profesional de la salud.",
+      "calorie_floor": "Ajustamos tus calorías al mínimo seguro.",
+      "review_goal": "Con tu IMC actual conviene revisar este objetivo con un profesional de la salud."
+    },
+    "disclaimer": "Estimación orientativa, no sustituye el consejo de un médico o nutriólogo.",
+    "menuToday": "Menú de hoy",
+    "otherOptions": "Otras opciones",
+    "vegetarian": "Vegetariano",
+    "menuTotal": "Total del menú: {{kcal}} kcal (meta {{target}} kcal)"
+  },
+  "wellbeing": {
+    "title": "Bienestar",
+    "sleep": "Sueño",
+    "cycle": "Ciclo"
+  },
+  "profile": {
+    "title": "Perfil",
+    "data": "Mis datos",
+    "height": "Altura",
+    "weight": "Peso",
+    "sex": "Sexo",
+    "goal": "Objetivo",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "subscription": "Suscripción",
+    "trial": "7 días gratis, después 50 MXN al mes",
+    "signOut": "Cerrar sesión"
+  },
+  "goals": {
+    "lose_weight": "Perder peso",
+    "gain_weight": "Ganar peso",
+    "build_muscle": "Ganar masa muscular",
+    "stay_fit": "Mantenerme en forma",
+    "stay_active": "Estar activo",
+    "eat_better": "Mejorar mi alimentación"
+  },
+  "common": {
+    "error": "No se pudo conectar con el servidor."
+  },
+  "auth": {
+    "welcome": "Bienvenido",
+    "subtitle": "Inicia sesión para guardar tu progreso.",
+    "email": "Correo electrónico",
+    "continue": "Continuar con correo",
+    "phone": "Continuar con teléfono",
+    "google": "Continuar con Google",
+    "devNote": "Modo desarrollo: teléfono y Google se activarán al conectar Firebase.",
+    "createAccount": "Crear cuenta",
+    "signIn": "Iniciar sesión",
+    "password": "Contraseña",
+    "passwordHint": "Mínimo 6 caracteres",
+    "noAccount": "Crear una cuenta",
+    "haveAccount": "Ya tengo cuenta",
+    "forgot": "Olvidé mi contraseña",
+    "resetSent": "Si el correo está registrado, te enviamos un enlace para restablecer la contraseña.",
+    "nativeNote": "El acceso con teléfono y Google estará disponible en la versión instalada de la app.",
+    "error": {
+      "invalidCredentials": "Correo o contraseña incorrectos.",
+      "emailInUse": "Ese correo ya tiene una cuenta. Inicia sesión.",
+      "weakPassword": "La contraseña es muy débil. Usa al menos 6 caracteres.",
+      "tooManyRequests": "Demasiados intentos. Espera unos minutos e inténtalo de nuevo.",
+      "network": "Sin conexión. Revisa tu internet.",
+      "enterEmail": "Escribe tu correo para restablecer la contraseña.",
+      "generic": "No pudimos completar la acción. Inténtalo de nuevo."
+    }
+  },
+  "onboarding": {
+    "title": "Cuéntanos sobre ti",
+    "name": "Nombre",
+    "height": "Altura (cm)",
+    "weight": "Peso (kg)",
+    "male": "Masculino",
+    "female": "Femenino",
+    "finish": "Guardar y empezar",
+    "age": "Edad",
+    "activity": "Nivel de actividad actual",
+    "equipment": "Dónde entrenas",
+    "home": "En casa",
+    "gym": "Gimnasio"
+  },
+  "activity": {
+    "sedentary": "Sedentario (poco o nada de ejercicio)",
+    "light": "Ligero (1-2 días por semana)",
+    "moderate": "Moderado (3-4 días por semana)",
+    "active": "Activo (5 o más días por semana)"
+  },
+  "plan": {
+    "title": "Mi plan semanal",
+    "day": "Día {{n}}",
+    "rest": "descanso {{s}} s",
+    "summary": "{{days}} días por semana · nivel {{level}}",
+    "locked": "Tu plan requiere suscripción o la prueba gratuita activa.",
+    "level": {
+      "beginner": "principiante",
+      "intermediate": "intermedio"
+    },
+    "kind": {
+      "full": "Cuerpo completo",
+      "upper": "Tren superior",
+      "lower": "Tren inferior",
+      "push": "Empuje",
+      "pull": "Tirón",
+      "legs": "Piernas",
+      "cardio": "Cardio",
+      "mobility": "Movilidad"
+    }
+  },
+  "exercise": {
+    "muscle": "Músculo principal",
+    "equipment": "Equipo",
+    "level": "Nivel",
+    "steps": "Cómo hacerlo",
+    "lockedInfo": "Las instrucciones de este ejercicio están disponibles con suscripción."
+  },
+  "muscle": {
+    "abdominals": "Abdomen",
+    "abductors": "Abductores",
+    "adductors": "Aductores",
+    "biceps": "Bíceps",
+    "calves": "Pantorrillas",
+    "chest": "Pecho",
+    "forearms": "Antebrazos",
+    "glutes": "Glúteos",
+    "hamstrings": "Isquiotibiales",
+    "lats": "Dorsales",
+    "lower back": "Espalda baja",
+    "middle back": "Espalda media",
+    "neck": "Cuello",
+    "quadriceps": "Cuádriceps",
+    "shoulders": "Hombros",
+    "traps": "Trapecios",
+    "triceps": "Tríceps"
+  },
+  "equipment": {
+    "body only": "Peso corporal",
+    "dumbbell": "Mancuernas",
+    "barbell": "Barra",
+    "machine": "Máquina",
+    "cable": "Polea",
+    "kettlebells": "Pesa rusa",
+    "bands": "Bandas elásticas",
+    "medicine ball": "Balón medicinal",
+    "exercise ball": "Balón de estabilidad",
+    "e-z curl bar": "Barra Z",
+    "foam roll": "Rodillo de espuma",
+    "other": "Otro"
+  },
+  "level": {
+    "beginner": "Principiante",
+    "intermediate": "Intermedio",
+    "expert": "Avanzado"
+  },
+  "recipe": {
+    "calories": "Calorías",
+    "time": "Preparación",
+    "portion": "Porción",
+    "ingredients": "Ingredientes",
+    "steps": "Paso a paso"
+  }
+}

@@ -1,0 +1,30 @@
+# Backend (Python / FastAPI)
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.db
+backend/.env
+backend/translate_es.log
+backend/names_en.txt
+
+# Mobile (Expo / React Native)
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+mobile/expo-env.d.ts
+mobile/.env
+mobile/*.tsbuildinfo
+mobile/.kotlin/
+mobile/*.orig.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/android/
+mobile/ios/
+
+# OS
+.DS_Store
+Thumbs.db

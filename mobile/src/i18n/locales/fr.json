@@ -1,0 +1,26 @@
+{
+  "tabs": { "today": "Aujourd'hui", "train": "Entraînement", "nutrition": "Nutrition", "wellbeing": "Bien-être", "profile": "Profil" },
+  "today": { "title": "Aujourd'hui", "empty": "Vous n'avez pas encore de programme actif.", "choosePlan": "Choisir un programme" },
+  "train": { "title": "Entraînement", "library": "Bibliothèque d'exercices", "premium": "Disponible avec l'abonnement" },
+  "nutrition": { "title": "Nutrition", "soon": "Bientôt disponible" },
+  "wellbeing": { "title": "Bien-être", "sleep": "Sommeil", "cycle": "Cycle" },
+  "profile": {
+    "title": "Profil",
+    "data": "Mes informations",
+    "height": "Taille",
+    "weight": "Poids",
+    "sex": "Sexe",
+    "goal": "Objectif",
+    "settings": "Réglages",
+    "language": "Langue",
+    "subscription": "Abonnement",
+    "trial": "7 jours gratuits, puis 50 MXN par mois"
+  },
+  "goals": {
+    "lose_weight": "Perdre du poids",
+    "gain_weight": "Prendre du poids",
+    "build_muscle": "Gagner en masse musculaire",
+    "stay_fit": "Rester en forme",
+    "stay_active": "Rester actif"
+  }
+}

@@ -1,0 +1,300 @@
+1|Abdominal sit-up de 3/4
+2|Isquiotibiales 90/90
+3|Máquina de abdominales
+4|Rueda abdominal
+5|Máquina de aductores
+6|Aductores e ingle
+7|Molino con pesa rusa avanzado
+8|Bicicleta de aire
+9|Estiramiento de cuádriceps a cuatro apoyos
+10|Curl martillo alterno
+11|Toques alternos de talón
+12|Curl alterno con mancuernas en banco inclinado
+13|Zancada diagonal alterna con salto
+14|Press de hombros alterno en polea
+15|Elevación alterna de deltoides
+16|Press de suelo alterno
+17|Cargada colgante alterna
+18|Press alterno con pesa rusa
+19|Remo alterno con pesa rusa
+20|Remo renegado alterno
+21|Círculos de tobillo
+22|Tobillo sobre la rodilla
+23|Liberación miofascial del tibial anterior
+24|Press antigravedad
+25|Círculos de brazos
+26|Press Arnold con mancuernas
+27|Vueltas al mundo
+28|Entrenador de piedra de Atlas
+29|Piedras de Atlas
+30|Peso muerto con barra de eje
+31|Aperturas posteriores con bandas
+32|Arrastre hacia atrás
+33|Lanzamiento de balón medicinal hacia atrás
+34|Tabla de equilibrio
+35|Curl de pierna con balón
+36|Dominadas asistidas con banda
+37|Buenos días con banda
+38|Buenos días con banda (tirón)
+39|Aducción de cadera con banda
+40|Separación de banda (band pull apart)
+41|Rompecráneos con banda
+42|Rueda abdominal con barra
+43|Rueda abdominal con barra de rodillas
+44|Press de banca con barra, agarre medio
+45|Curl con barra
+46|Curl con barra recostado en banco inclinado
+47|Peso muerto con barra
+48|Sentadilla completa con barra
+49|Puente de glúteo con barra
+50|Press de banca guillotina con barra
+51|Sentadilla hack con barra
+52|Empuje de cadera con barra
+53|Press inclinado con barra, agarre medio
+54|Elevación de hombros inclinada con barra
+55|Zancada con barra
+56|Remo para deltoide posterior con barra
+57|Rueda con barra desde banco
+58|Elevación de talones sentado con barra
+59|Press de hombros con barra
+60|Encogimientos con barra
+61|Encogimientos con barra por detrás
+62|Flexión lateral con barra
+63|Sentadilla dividida lateral con barra
+64|Sentadilla con barra
+65|Sentadilla con barra hasta un banco
+66|Subidas al cajón con barra
+67|Zancadas caminando con barra
+68|Cuerdas de batalla
+69|Arrastre de trineo a gatas
+70|Estiramiento de pecho con manos tras la cabeza
+71|Fondos en banco
+72|Salto al banco
+73|Press de banca (powerlifting)
+74|Press de banca con bandas
+75|Press de banca con cadenas
+76|Sprint en banco
+77|Pullover con barra y brazos flexionados
+78|Pullover con mancuerna y brazos flexionados
+79|Elevación de cadera con rodillas flexionadas
+80|Remo inclinado con barra
+81|Elevación posterior inclinada con mancuernas y cabeza en banco
+82|Elevación lateral inclinada en polea baja
+83|Remo inclinado a un brazo con barra larga
+84|Remo inclinado a dos brazos con barra larga
+85|Remo inclinado con dos mancuernas
+86|Remo inclinado con dos mancuernas, palmas hacia dentro
+87|Press inclinado (bent press)
+88|Ciclismo
+89|Bicicleta estática
+90|Press con tablas
+91|Elevación de cuerpo
+92|Press de tríceps con peso corporal
+93|Aperturas con peso corporal
+94|Remo medio con peso corporal
+95|Sentadilla con peso corporal
+96|Zancadas caminando con peso corporal
+97|Crunch en polea con Bosu y flexión lateral
+98|Cargada invertida desde colgado
+99|Bottoms up
+100|Salto al cajón (respuesta múltiple)
+101|Saltito al cajón
+102|Sentadilla al cajón
+103|Sentadilla al cajón con bandas
+104|Sentadilla al cajón con cadenas
+105|Liberación miofascial del braquial
+106|Press Bradford/Rocky
+107|Elevaciones de glúteo
+108|Elevación de glúteo (puente)
+109|Mariposa
+110|Press de pecho en polea
+111|Cruce de poleas
+112|Crunch en polea
+113|Peso muerto en polea
+114|Curl martillo en polea con cuerda
+115|Aducción de cadera en polea
+116|Jalón inclinado en polea
+117|Extensión de tríceps inclinada en polea
+118|Rotación interna en polea
+119|Cruz de hierro en polea
+120|Volteo de judo en polea
+121|Extensión de tríceps tumbado en polea
+122|Extensión de tríceps a un brazo en polea
+123|Curl predicador en polea
+124|Aperturas posteriores en polea
+125|Crunch inverso en polea
+126|Extensión de tríceps sobre la cabeza con cuerda
+127|Remo para deltoide posterior con cuerda
+128|Giros rusos en polea
+129|Crunch sentado en polea
+130|Elevación lateral sentado en polea
+131|Press de hombros en polea
+132|Encogimientos en polea
+133|Curl de muñeca en polea
+134|Encogimiento de hombros en máquina de pantorrillas
+135|Prensa de pantorrillas
+136|Pantorrillas en la prensa de piernas
+137|Elevación de talones sobre una mancuerna
+138|Elevación de talones con bandas
+139|Estiramiento de pantorrilla con codos en la pared
+140|Estiramiento de pantorrilla con manos en la pared
+141|Liberación miofascial de pantorrillas
+142|Peso muerto de auto
+143|Conductores
+144|Paso rápido carioca
+145|Estiramiento del gato
+146|Atrapar y lanzar sobre la cabeza
+147|Extensión con mango de cadena
+148|Press con cadenas
+149|Estiramiento de pierna extendida en silla
+150|Estiramiento de espalda baja en silla
+151|Sentadilla en silla
+152|Estiramiento de tren superior en silla
+153|Estiramiento de pecho y parte frontal del hombro
+154|Empuje de pecho desde posición de tres apoyos
+155|Empuje de pecho (respuesta múltiple)
+156|Empuje de pecho (respuesta única)
+157|Empuje de pecho con salida en carrera
+158|Estiramiento de pecho sobre balón de estabilidad
+159|Postura del niño
+160|Dominadas supinas
+161|Estiramiento barbilla al pecho
+162|Campana de circo
+163|Cargada
+164|Peso muerto de cargada
+165|Tirón de cargada
+166|Encogimiento de cargada
+167|Cargada y envión
+168|Cargada y press
+169|Cargada desde bloques
+170|Flexiones en reloj
+171|Press de banca con barra, agarre cerrado
+172|Press con mancuernas, agarre cerrado
+173|Curl con barra Z y banda, agarre cerrado
+174|Press con barra Z, agarre cerrado
+175|Curl con barra Z, agarre cerrado
+176|Jalón al pecho, agarre cerrado
+177|Flexiones cerradas sobre una mancuerna
+178|Curl de pie con barra, agarre cerrado
+179|Capullos
+180|Rueda de Conan
+181|Curl de concentración
+182|Crunch cruzado
+183|Curl martillo cruzado
+184|Cruce de poleas con bandas
+185|Zancada inversa cruzada
+186|Crucifijo
+187|Crunch con manos sobre la cabeza
+188|Crunch con piernas sobre balón de estabilidad
+189|Abdominales (crunch)
+190|Press cubano
+191|Estiramiento del bailarín
+192|Bicho muerto
+193|Peso muerto con bandas
+194|Peso muerto con cadenas
+195|Press de banca declinado con barra
+196|Press cerrado declinado a rompecráneos
+197|Crunch declinado
+198|Press declinado con mancuernas
+199|Aperturas declinadas con mancuernas
+200|Extensión de tríceps declinada con mancuerna
+201|Extensión de tríceps declinada con barra Z
+202|Crunch oblicuo declinado
+203|Flexiones declinadas
+204|Crunch inverso declinado
+205|Press declinado en máquina Smith
+206|Peso muerto con déficit
+207|Salto en profundidad
+208|Máquina de fondos
+209|Fondos (versión pecho)
+210|Fondos (versión tríceps)
+211|Elevación de talones tipo burro
+212|Cargada colgante alterna con dos pesas rusas
+213|Envión con dos pesas rusas
+214|Push press con dos pesas rusas
+215|Arranque con dos pesas rusas
+216|Molino con dos pesas rusas
+217|Patada de glúteo con ambas piernas
+218|Equilibrio boca abajo
+219|Curl de arrastre
+220|Empuje con caída
+221|Curl de bíceps alterno con mancuernas
+222|Press de banca con mancuernas
+223|Press de banca con mancuernas, agarre neutro
+224|Curl de bíceps con mancuernas
+225|Cargada con mancuernas
+226|Press de suelo con mancuernas
+227|Aperturas con mancuernas
+228|Remo inclinado con mancuerna
+229|Elevación de hombros inclinada con mancuernas
+230|Zancadas con mancuernas
+231|Elevación posterior tumbado a un brazo con mancuerna
+232|Pronación tumbado con mancuerna
+233|Elevación posterior tumbado con mancuernas
+234|Supinación tumbado con mancuerna
+235|Press de hombros a un brazo con mancuerna
+236|Extensión de tríceps a un brazo con mancuerna
+237|Remo al mentón a un brazo con mancuerna
+238|Curl inclinado boca abajo con mancuernas
+239|Elevación con mancuernas
+240|Zancada hacia atrás con mancuernas
+241|Scaption con mancuernas
+242|Salto al cajón sentado con mancuernas
+243|Elevación de talón sentado a una pierna con mancuerna
+244|Press de hombros con mancuernas
+245|Encogimientos con mancuernas
+246|Flexión lateral con mancuerna
+247|Sentadilla con mancuerna
+248|Sentadilla con mancuerna hasta un banco
+249|Subidas al cajón con mancuernas
+250|Extensión de tríceps con mancuerna, agarre prono
+251|Estiramiento dinámico de espalda
+252|Estiramiento dinámico de pecho
+253|Curl con barra Z
+254|Rompecráneos con barra Z
+255|Círculos de codo
+256|Codo a rodilla
+257|Codos hacia atrás
+258|Zancada trasera elevada
+259|Remo elevado en polea
+260|Elíptica
+261|Crunch con balón de estabilidad
+262|Recogida de piernas con balón de estabilidad
+263|Press de suelo a un brazo con pesa rusa, rango extendido
+264|Rotación externa
+265|Rotación externa con banda
+266|Rotación externa con polea
+267|Face pull
+268|Paseo del granjero
+269|Skipping rápido
+270|Curl de dedos
+271|Aperturas en polea en banco plano
+272|Recogida de piernas en banco plano
+273|Elevación de piernas tumbado en banco plano
+274|Curl inclinado con mancuernas para flexores
+275|Elevación glúteo-isquio en el suelo
+276|Press de suelo
+277|Press de suelo con cadenas
+278|Patadas de tijera
+279|Liberación miofascial del pie
+280|Arrastre hacia delante con press
+281|Sentadilla Frankenstein
+282|Sentadilla con salto sin peso
+283|Saltos de rana
+284|Abdominales de rana
+285|Sentadilla frontal con barra
+286|Sentadilla frontal con barra hasta un banco
+287|Salto frontal al cajón
+288|Elevación frontal en polea
+289|Saltos frontales sobre conos (o vallas)
+290|Elevación frontal con mancuernas
+291|Elevación frontal inclinada con mancuernas
+292|Elevaciones frontales de pierna
+293|Elevación frontal con disco
+294|Elevación frontal y pullover
+295|Sentadilla frontal (agarre de cargada)
+296|Sentadilla frontal con dos pesas rusas
+297|Elevación frontal con dos mancuernas
+298|Jalón al pecho con rango completo
+299|Dominadas Gironda al esternón
+300|Elevación glúteo-isquio
