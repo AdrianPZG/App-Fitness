@@ -1,19 +1,18 @@
 # Backend (Python / FastAPI)
+# .venv y __pycache__ no se versionan: se regeneran con `pip install -r requirements.txt`.
+# Todo lo demás (.env, dev.db, logs) SÍ se versiona a propósito para clonar el proyecto
+# ya listo, tal como está en esta máquina.
 backend/.venv/
 backend/__pycache__/
 backend/**/__pycache__/
-backend/*.db
-backend/.env
-backend/translate_es.log
-backend/names_en.txt
 
 # Mobile (Expo / React Native)
+# node_modules no se versiona: se regenera con `npm install`.
 mobile/node_modules/
 mobile/.expo/
 mobile/dist/
 mobile/web-build/
 mobile/expo-env.d.ts
-mobile/.env
 mobile/*.tsbuildinfo
 mobile/.kotlin/
 mobile/*.orig.*
@@ -24,6 +23,10 @@ mobile/*.key
 mobile/*.mobileprovision
 mobile/android/
 mobile/ios/
+
+# Diseño de referencia (Replit): ya se extrajo a mobile/, no se versiona el volcado completo.
+Fitness-movil/
+Fitness-movil.zip
 
 # OS
 .DS_Store

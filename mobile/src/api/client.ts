@@ -89,3 +89,5 @@ export type Nutrition = Macros & {
   meals: (Macros & { key: string })[];
   warnings: string[];
 };
+
+export type Subscription = { status: 'none' | 'trial' | 'active'; days_left: number | null; price_mxn: number };

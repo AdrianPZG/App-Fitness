@@ -102,39 +102,39 @@ App_Ejercicio/
 
 ## 7. Navegación
 
-Tabs inferiores (teléfono) / barra lateral (tablet ≥ 768 px):
+Tabs inferiores, solo teléfono (sin layout de tablet/escritorio):
 
-1. **Hoy** – resumen del día, entrenamiento programado, progreso.
-2. **Entrenar** – planes, biblioteca de ejercicios, historial.
-3. **Nutrición** – objetivos y registro (fase 2).
-4. **Bienestar** – sueño y ciclo (submenú/segmented control).
-5. **Perfil** – datos, objetivo, ajustes (idioma, unidades, tema, notificaciones, privacidad, cerrar sesión).
+1. **Inicio** – resumen del día: sesión de hoy, meta calórica, semana de plan.
+2. **Rutinas** – plan semanal por día, biblioteca de ejercicios con buscador.
+3. **Dieta** – metas de calorías/macros, menú de recetas del día.
+4. **Reloj** – conectar Apple Health / Google Fit / Garmin (pantalla preparada; sin integración real todavía).
+5. **Perfil** – datos, objetivo, suscripción, apariencia, idioma, cerrar sesión.
 
-Onboarding: login → datos básicos → objetivo → nivel → resumen.
+Onboarding: login → datos básicos (altura, peso, edad, sexo) → objetivo, actividad, equipo → resumen.
 
-## 8. Diseño visual (anti “aspecto IA”)
+## 8. Diseño visual (v2 — extraído del diseño hecho en Replit, `Fitness-movil`)
+
+Reemplaza la paleta clara "verde salvia" original: se adoptó el sistema que el usuario diseñó en Replit, portado tal cual a `mobile/src/theme`, `mobile/src/components/{FitnessUI,DepthOrb,Motion}.tsx`.
 
 **Principios**
-- Sin emojis en la UI. Iconografía de línea consistente (Lucide / Phosphor, trazo 1.5).
-- Sin neón, sin degradados morados/azules, sin brillos ni glassmorphism.
-- Paleta sobria y cálida, un solo color de acento usado con moderación.
-- Mucho espacio en blanco, tipografía como jerarquía principal, esquinas suaves (radio 12), sombras casi inexistentes; separación con líneas finas.
-- Datos reales en lugar de textos motivacionales genéricos. Copy corto y directo.
+- Tema oscuro por defecto (con claro y "sistema" como alternativas reales, no solo `prefers-color-scheme`).
+- Sin emojis. Iconografía de línea (Feather, vía `@expo/vector-icons`).
+- Animación 3D discreta con `react-native-reanimated` (perspective/rotateX/rotateY), sin librerías 3D pesadas: `DepthOrb` (login, splash) y transiciones de aparición (`Reveal` en `Motion.tsx`).
+- Tarjetas tipo *bento*, un solo acento (naranja quemado) usado con moderación.
 
-**Paleta propuesta (claro / oscuro)**
+**Paleta** (`mobile/src/theme/colors.ts`)
 | Token | Claro | Oscuro |
 |---|---|---|
-| fondo | `#F6F4F0` | `#141413` |
-| superficie | `#FFFFFF` | `#1E1E1C` |
-| texto | `#1F1E1B` | `#ECEAE4` |
-| texto suave | `#6B6860` | `#9B978D` |
-| línea | `#E4E0D8` | `#2E2D2A` |
-| acento (verde salvia) | `#3F6B57` | `#7FAF98` |
-| alerta (terracota) | `#B5573A` | `#D9856A` |
+| fondo | `#F7F3EE` | `#07080B` |
+| superficie (card) | `#FFFFFF` | `#111216` |
+| texto (foreground) | `#17110E` | `#F7F1EB` |
+| texto suave (mutedForeground) | `#786B63` | `#BBA79C` |
+| acento (primary) | `#C8541F` | `#F07832` |
+| borde | `#D8C8BC` | `#49332B` |
 
-**Tipografía**: Inter (UI) + una serif suave como Fraunces o Source Serif solo para títulos grandes.
+**Tipografía**: Inter (Regular/Medium/SemiBold/Bold vía `@expo-google-fonts/inter`).
 
-**Responsive**: breakpoints 0–599 teléfono, 600–1023 tablet vertical, ≥1024 tablet horizontal. En tablet: navegación lateral, contenido en 2 columnas (lista + detalle). Contenedor con ancho máximo de lectura.
+**Responsive**: solo teléfono, vertical.
 
 ## 9. Privacidad y seguridad
 - Datos de salud (incluido ciclo menstrual) son sensibles: consentimiento explícito, cifrado en tránsito y en reposo, exportar/eliminar cuenta (requerido por App Store y Play).

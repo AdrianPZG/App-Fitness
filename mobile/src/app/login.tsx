@@ -1,14 +1,14 @@
 import { createUserWithEmailAndPassword, sendPasswordResetEmail, signInWithEmailAndPassword } from 'firebase/auth';
-import { Mail, Phone } from 'lucide-react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Pressable, Text, View } from 'react-native';
+import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 
-import { Button, Field } from '@/components/form';
-import { Body, Screen } from '@/components/ui';
+import { DepthOrb } from '@/components/DepthOrb';
+import { ActionButton, Icon, Screen, styles } from '@/components/FitnessUI';
+import { useColors } from '@/hooks/useColors';
 import { auth, firebaseEnabled } from '@/lib/firebase';
 import { useAuth } from '@/store/auth';
-import { font, space, useColors } from '@/theme';
 
 /** Traduce el código de error de Firebase a una clave de texto. */
 function errorKey(err: unknown): string {
@@ -21,9 +21,9 @@ function errorKey(err: unknown): string {
   return 'generic';
 }
 
-export default function Login() {
+export default function LoginScreen() {
   const { t } = useTranslation();
-  const c = useColors();
+  const colors = useColors();
   const signInDev = useAuth((s) => s.signInDev);
   const [mode, setMode] = useState<'signin' | 'signup'>('signin');
   const [email, setEmail] = useState('');
@@ -57,59 +57,78 @@ export default function Login() {
     setMessage({ text: t('auth.resetSent'), error: false });
   }
 
+  const inputStyle = { borderColor: colors.input, color: colors.foreground, backgroundColor: colors.card };
+
   return (
-    <Screen title={mode === 'signup' ? t('auth.createAccount') : t('auth.welcome')}>
-      <Body soft>{t('auth.subtitle')}</Body>
-      <View style={{ gap: space.md }}>
-        <Field
-          label={t('auth.email')}
-          value={email}
-          onChangeText={setEmail}
-          keyboardType="email-address"
-          autoCapitalize="none"
-          autoCorrect={false}
-          autoComplete="email"
-          placeholder="nombre@correo.com"
-        />
-        {firebaseEnabled && (
-          <Field
-            label={t('auth.password')}
-            value={password}
-            onChangeText={setPassword}
-            secureTextEntry
+    <Screen scroll={false}>
+      <LinearGradient colors={[colors.background, colors.backgroundAlt, colors.background]} style={StyleSheet.absoluteFill} />
+      <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <View style={[styles.loginMark, { backgroundColor: colors.primary, marginBottom: 0 }]}>
+          <Icon name="activity" size={24} color={colors.primaryForeground} />
+        </View>
+        <Text style={{ fontSize: 10, letterSpacing: 1.6, fontWeight: '700', color: colors.mutedForeground }}>FITNESS / 01</Text>
+      </View>
+      <View style={{ height: 210, alignItems: 'center', justifyContent: 'center' }}>
+        <DepthOrb size={175} label={mode === 'signup' ? 'START' : 'RESET'} />
+      </View>
+      <View style={{ flex: 1, justifyContent: 'flex-end' }}>
+        <Text style={[styles.eyebrow, { color: colors.primary }]}>{t('auth.eyebrow')}</Text>
+        <Text style={[styles.loginTitle, { color: colors.foreground }]}>{mode === 'signup' ? t('auth.createAccount') : t('auth.welcome')}</Text>
+        <Text style={[styles.bodyCopy, { color: colors.mutedForeground, maxWidth: 310 }]}>{t('auth.subtitle')}</Text>
+
+        <View style={{ gap: 10, marginTop: 24 }}>
+          <TextInput
+            value={email}
+            onChangeText={setEmail}
+            placeholder={t('auth.email')}
+            placeholderTextColor={colors.mutedForeground}
             autoCapitalize="none"
-            autoComplete={mode === 'signup' ? 'new-password' : 'current-password'}
-            placeholder={t('auth.passwordHint')}
+            autoCorrect={false}
+            keyboardType="email-address"
+            style={[styles.input, inputStyle]}
           />
-        )}
-        {message && (
-          <Text style={{ fontFamily: font.regular, fontSize: 14, color: message.error ? c.alert : c.accent }}>{message.text}</Text>
-        )}
-        <Button
-          title={mode === 'signup' ? t('auth.createAccount') : t('auth.signIn')}
-          disabled={!canSubmit}
-          icon={<Mail size={18} color={c.onAccent} strokeWidth={1.5} />}
-          onPress={submit}
-        />
+          {firebaseEnabled && (
+            <TextInput
+              value={password}
+              onChangeText={setPassword}
+              placeholder={t('auth.passwordHint')}
+              placeholderTextColor={colors.mutedForeground}
+              secureTextEntry
+              autoCapitalize="none"
+              style={[styles.input, inputStyle]}
+            />
+          )}
+          {message && <Text style={{ fontSize: 13, color: message.error ? colors.destructive : colors.primary }}>{message.text}</Text>}
+          <ActionButton label={mode === 'signup' ? t('auth.createAccount') : t('auth.signIn')} disabled={!canSubmit} icon="arrow-right" onPress={submit} />
+        </View>
+
         {firebaseEnabled && (
-          <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
-            <Pressable onPress={() => { setMode(mode === 'signin' ? 'signup' : 'signin'); setMessage(null); }}>
-              <Text style={{ fontFamily: font.medium, fontSize: 14, color: c.accent }}>
-                {mode === 'signin' ? t('auth.noAccount') : t('auth.haveAccount')}
-              </Text>
+          <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginTop: 14 }}>
+            <Pressable
+              onPress={() => {
+                setMode(mode === 'signin' ? 'signup' : 'signin');
+                setMessage(null);
+              }}>
+              <Text style={[styles.sectionAction, { color: colors.primary }]}>{mode === 'signin' ? t('auth.noAccount') : t('auth.haveAccount')}</Text>
             </Pressable>
             {mode === 'signin' && (
               <Pressable onPress={resetPassword}>
-                <Text style={{ fontFamily: font.regular, fontSize: 14, color: c.textSoft }}>{t('auth.forgot')}</Text>
+                <Text style={[styles.legalText, { color: colors.mutedForeground }]}>{t('auth.forgot')}</Text>
               </Pressable>
             )}
           </View>
         )}
-      </View>
-      <View style={{ gap: space.sm }}>
-        <Button variant="secondary" disabled title={t('auth.phone')} icon={<Phone size={18} color={c.text} strokeWidth={1.5} />} />
-        <Button variant="secondary" disabled title={t('auth.google')} />
-        <Text style={{ fontFamily: font.regular, fontSize: 13, color: c.textSoft }}>
+
+        <View style={styles.loginDivider}>
+          <View style={[styles.loginLine, { backgroundColor: colors.border }]} />
+          <Text style={[styles.legalText, { color: colors.mutedForeground }]}>{t('common.or')}</Text>
+          <View style={[styles.loginLine, { backgroundColor: colors.border }]} />
+        </View>
+        <View style={{ gap: 10 }}>
+          <ActionButton label={t('auth.phone')} icon="smartphone" secondary disabled onPress={() => {}} />
+          <ActionButton label={t('auth.google')} icon="globe" secondary disabled onPress={() => {}} />
+        </View>
+        <Text style={[styles.legalText, { color: colors.mutedForeground, textAlign: 'center', marginTop: 16 }]}>
           {firebaseEnabled ? t('auth.nativeNote') : t('auth.devNote')}
         </Text>
       </View>

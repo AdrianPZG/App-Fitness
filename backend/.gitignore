@@ -1,4 +1,2 @@
 .venv/
-*.db
-.env
 __pycache__/

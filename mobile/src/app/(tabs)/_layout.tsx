@@ -1,53 +1,60 @@
+import { Feather } from '@expo/vector-icons';
+import { BlurView } from 'expo-blur';
 import { Tabs } from 'expo-router';
-import { Dumbbell, House, Moon, User, Utensils } from 'lucide-react-native';
+import { Platform, StyleSheet, useColorScheme, View } from 'react-native';
 import { useTranslation } from 'react-i18next';
-import { StyleSheet, useWindowDimensions } from 'react-native';
 
-import { font, useColors } from '@/theme';
+import { useColors } from '@/hooks/useColors';
 
-const icons = { index: House, train: Dumbbell, nutrition: Utensils, wellbeing: Moon, profile: User };
+const tabConfig = [
+  { name: 'index', icon: 'home' as const },
+  { name: 'routines', icon: 'activity' as const },
+  { name: 'diet', icon: 'pie-chart' as const },
+  { name: 'watch', icon: 'watch' as const },
+  { name: 'profile', icon: 'user' as const },
+];
 
-export default function TabsLayout() {
+export default function TabLayout() {
   const { t } = useTranslation();
-  const c = useColors();
-  const wide = useWindowDimensions().width >= 768; // tablet: navegación lateral
-
-  const screen = (name: keyof typeof icons, label: string) => {
-    const Icon = icons[name];
-    return (
-      <Tabs.Screen
-        key={name}
-        name={name}
-        options={{
-          title: label,
-          tabBarIcon: ({ color }) => <Icon size={22} color={color} strokeWidth={1.5} />,
-        }}
-      />
-    );
-  };
+  const colors = useColors();
+  const colorScheme = useColorScheme();
+  const isDark = colorScheme !== 'light';
+  const isIOS = Platform.OS === 'ios';
+  const isWeb = Platform.OS === 'web';
 
   return (
     <Tabs
       screenOptions={{
+        tabBarActiveTintColor: colors.primary,
+        tabBarInactiveTintColor: colors.mutedForeground,
         headerShown: false,
-        tabBarPosition: wide ? 'left' : 'bottom',
-        tabBarVariant: wide ? 'material' : 'uikit',
-        tabBarActiveTintColor: c.accent,
-        tabBarInactiveTintColor: c.textSoft,
-        tabBarLabelStyle: { fontFamily: font.medium, fontSize: 12 },
         tabBarStyle: {
-          backgroundColor: c.surface,
-          borderColor: c.line,
-          borderTopWidth: StyleSheet.hairlineWidth,
-          borderRightWidth: wide ? StyleSheet.hairlineWidth : 0,
+          position: 'absolute',
+          backgroundColor: isIOS ? 'transparent' : colors.card,
+          borderTopWidth: isWeb ? 1 : 0,
+          borderTopColor: colors.border,
           elevation: 0,
+          ...(isWeb ? { height: 84 } : {}),
+          paddingTop: 8,
         },
+        tabBarBackground: () =>
+          isIOS ? (
+            <BlurView intensity={90} tint={isDark ? 'dark' : 'light'} style={StyleSheet.absoluteFill} />
+          ) : (
+            <View style={[StyleSheet.absoluteFill, { backgroundColor: colors.card }]} />
+          ),
+        tabBarLabelStyle: { fontSize: 10, fontWeight: '600', marginBottom: Platform.OS === 'android' ? 5 : 0 },
       }}>
-      {screen('index', t('tabs.today'))}
-      {screen('train', t('tabs.train'))}
-      {screen('nutrition', t('tabs.nutrition'))}
-      {screen('wellbeing', t('tabs.wellbeing'))}
-      {screen('profile', t('tabs.profile'))}
+      {tabConfig.map((tab) => (
+        <Tabs.Screen
+          key={tab.name}
+          name={tab.name}
+          options={{
+            title: t(`tabs.${tab.name}`),
+            tabBarIcon: ({ color }) => <Feather name={tab.icon} size={20} color={color} />,
+          }}
+        />
+      ))}
     </Tabs>
   );
 }

@@ -1,0 +1,876 @@
+1|3/4 Sit-Up
+2|90/90 Hamstring
+3|Ab Crunch Machine
+4|Ab Roller
+5|Adductor
+6|Adductor/Groin
+7|Advanced Kettlebell Windmill
+8|Air Bike
+9|All Fours Quad Stretch
+10|Alternate Hammer Curl
+11|Alternate Heel Touchers
+12|Alternate Incline Dumbbell Curl
+13|Alternate Leg Diagonal Bound
+14|Alternating Cable Shoulder Press
+15|Alternating Deltoid Raise
+16|Alternating Floor Press
+17|Alternating Hang Clean
+18|Alternating Kettlebell Press
+19|Alternating Kettlebell Row
+20|Alternating Renegade Row
+21|Ankle Circles
+22|Ankle On The Knee
+23|Anterior Tibialis-SMR
+24|Anti-Gravity Press
+25|Arm Circles
+26|Arnold Dumbbell Press
+27|Around The Worlds
+28|Atlas Stone Trainer
+29|Atlas Stones
+30|Axle Deadlift
+31|Back Flyes - With Bands
+32|Backward Drag
+33|Backward Medicine Ball Throw
+34|Balance Board
+35|Ball Leg Curl
+36|Band Assisted Pull-Up
+37|Band Good Morning
+38|Band Good Morning (Pull Through)
+39|Band Hip Adductions
+40|Band Pull Apart
+41|Band Skull Crusher
+42|Barbell Ab Rollout
+43|Barbell Ab Rollout - On Knees
+44|Barbell Bench Press - Medium Grip
+45|Barbell Curl
+46|Barbell Curls Lying Against An Incline
+47|Barbell Deadlift
+48|Barbell Full Squat
+49|Barbell Glute Bridge
+50|Barbell Guillotine Bench Press
+51|Barbell Hack Squat
+52|Barbell Hip Thrust
+53|Barbell Incline Bench Press - Medium Grip
+54|Barbell Incline Shoulder Raise
+55|Barbell Lunge
+56|Barbell Rear Delt Row
+57|Barbell Rollout from Bench
+58|Barbell Seated Calf Raise
+59|Barbell Shoulder Press
+60|Barbell Shrug
+61|Barbell Shrug Behind The Back
+62|Barbell Side Bend
+63|Barbell Side Split Squat
+64|Barbell Squat
+65|Barbell Squat To A Bench
+66|Barbell Step Ups
+67|Barbell Walking Lunge
+68|Battling Ropes
+69|Bear Crawl Sled Drags
+70|Behind Head Chest Stretch
+71|Bench Dips
+72|Bench Jump
+73|Bench Press - Powerlifting
+74|Bench Press - With Bands
+75|Bench Press with Chains
+76|Bench Sprint
+77|Bent-Arm Barbell Pullover
+78|Bent-Arm Dumbbell Pullover
+79|Bent-Knee Hip Raise
+80|Bent Over Barbell Row
+81|Bent Over Dumbbell Rear Delt Raise With Head On Bench
+82|Bent Over Low-Pulley Side Lateral
+83|Bent Over One-Arm Long Bar Row
+84|Bent Over Two-Arm Long Bar Row
+85|Bent Over Two-Dumbbell Row
+86|Bent Over Two-Dumbbell Row With Palms In
+87|Bent Press
+88|Bicycling
+89|Bicycling, Stationary
+90|Board Press
+91|Body-Up
+92|Body Tricep Press
+93|Bodyweight Flyes
+94|Bodyweight Mid Row
+95|Bodyweight Squat
+96|Bodyweight Walking Lunge
+97|Bosu Ball Cable Crunch With Side Bends
+98|Bottoms-Up Clean From The Hang Position
+99|Bottoms Up
+100|Box Jump (Multiple Response)
+101|Box Skip
+102|Box Squat
+103|Box Squat with Bands
+104|Box Squat with Chains
+105|Brachialis-SMR
+106|Bradford/Rocky Presses
+107|Butt-Ups
+108|Butt Lift (Bridge)
+109|Butterfly
+110|Cable Chest Press
+111|Cable Crossover
+112|Cable Crunch
+113|Cable Deadlifts
+114|Cable Hammer Curls - Rope Attachment
+115|Cable Hip Adduction
+116|Cable Incline Pushdown
+117|Cable Incline Triceps Extension
+118|Cable Internal Rotation
+119|Cable Iron Cross
+120|Cable Judo Flip
+121|Cable Lying Triceps Extension
+122|Cable One Arm Tricep Extension
+123|Cable Preacher Curl
+124|Cable Rear Delt Fly
+125|Cable Reverse Crunch
+126|Cable Rope Overhead Triceps Extension
+127|Cable Rope Rear-Delt Rows
+128|Cable Russian Twists
+129|Cable Seated Crunch
+130|Cable Seated Lateral Raise
+131|Cable Shoulder Press
+132|Cable Shrugs
+133|Cable Wrist Curl
+134|Calf-Machine Shoulder Shrug
+135|Calf Press
+136|Calf Press On The Leg Press Machine
+137|Calf Raise On A Dumbbell
+138|Calf Raises - With Bands
+139|Calf Stretch Elbows Against Wall
+140|Calf Stretch Hands Against Wall
+141|Calves-SMR
+142|Car Deadlift
+143|Car Drivers
+144|Carioca Quick Step
+145|Cat Stretch
+146|Catch and Overhead Throw
+147|Chain Handle Extension
+148|Chain Press
+149|Chair Leg Extended Stretch
+150|Chair Lower Back Stretch
+151|Chair Squat
+152|Chair Upper Body Stretch
+153|Chest And Front Of Shoulder Stretch
+154|Chest Push from 3 point stance
+155|Chest Push (multiple response)
+156|Chest Push (single response)
+157|Chest Push with Run Release
+158|Chest Stretch on Stability Ball
+159|Child's Pose
+160|Chin-Up
+161|Chin To Chest Stretch
+162|Circus Bell
+163|Clean
+164|Clean Deadlift
+165|Clean Pull
+166|Clean Shrug
+167|Clean and Jerk
+168|Clean and Press
+169|Clean from Blocks
+170|Clock Push-Up
+171|Close-Grip Barbell Bench Press
+172|Close-Grip Dumbbell Press
+173|Close-Grip EZ-Bar Curl with Band
+174|Close-Grip EZ-Bar Press
+175|Close-Grip EZ Bar Curl
+176|Close-Grip Front Lat Pulldown
+177|Close-Grip Push-Up off of a Dumbbell
+178|Close-Grip Standing Barbell Curl
+179|Cocoons
+180|Conan's Wheel
+181|Concentration Curls
+182|Cross-Body Crunch
+183|Cross Body Hammer Curl
+184|Cross Over - With Bands
+185|Crossover Reverse Lunge
+186|Crucifix
+187|Crunch - Hands Overhead
+188|Crunch - Legs On Exercise Ball
+189|Crunches
+190|Cuban Press
+191|Dancer's Stretch
+192|Dead Bug
+193|Deadlift with Bands
+194|Deadlift with Chains
+195|Decline Barbell Bench Press
+196|Decline Close-Grip Bench To Skull Crusher
+197|Decline Crunch
+198|Decline Dumbbell Bench Press
+199|Decline Dumbbell Flyes
+200|Decline Dumbbell Triceps Extension
+201|Decline EZ Bar Triceps Extension
+202|Decline Oblique Crunch
+203|Decline Push-Up
+204|Decline Reverse Crunch
+205|Decline Smith Press
+206|Deficit Deadlift
+207|Depth Jump Leap
+208|Dip Machine
+209|Dips - Chest Version
+210|Dips - Triceps Version
+211|Donkey Calf Raises
+212|Double Kettlebell Alternating Hang Clean
+213|Double Kettlebell Jerk
+214|Double Kettlebell Push Press
+215|Double Kettlebell Snatch
+216|Double Kettlebell Windmill
+217|Double Leg Butt Kick
+218|Downward Facing Balance
+219|Drag Curl
+220|Drop Push
+221|Dumbbell Alternate Bicep Curl
+222|Dumbbell Bench Press
+223|Dumbbell Bench Press with Neutral Grip
+224|Dumbbell Bicep Curl
+225|Dumbbell Clean
+226|Dumbbell Floor Press
+227|Dumbbell Flyes
+228|Dumbbell Incline Row
+229|Dumbbell Incline Shoulder Raise
+230|Dumbbell Lunges
+231|Dumbbell Lying One-Arm Rear Lateral Raise
+232|Dumbbell Lying Pronation
+233|Dumbbell Lying Rear Lateral Raise
+234|Dumbbell Lying Supination
+235|Dumbbell One-Arm Shoulder Press
+236|Dumbbell One-Arm Triceps Extension
+237|Dumbbell One-Arm Upright Row
+238|Dumbbell Prone Incline Curl
+239|Dumbbell Raise
+240|Dumbbell Rear Lunge
+241|Dumbbell Scaption
+242|Dumbbell Seated Box Jump
+243|Dumbbell Seated One-Leg Calf Raise
+244|Dumbbell Shoulder Press
+245|Dumbbell Shrug
+246|Dumbbell Side Bend
+247|Dumbbell Squat
+248|Dumbbell Squat To A Bench
+249|Dumbbell Step Ups
+250|Dumbbell Tricep Extension -Pronated Grip
+251|Dynamic Back Stretch
+252|Dynamic Chest Stretch
+253|EZ-Bar Curl
+254|EZ-Bar Skullcrusher
+255|Elbow Circles
+256|Elbow to Knee
+257|Elbows Back
+258|Elevated Back Lunge
+259|Elevated Cable Rows
+260|Elliptical Trainer
+261|Exercise Ball Crunch
+262|Exercise Ball Pull-In
+263|Extended Range One-Arm Kettlebell Floor Press
+264|External Rotation
+265|External Rotation with Band
+266|External Rotation with Cable
+267|Face Pull
+268|Farmer's Walk
+269|Fast Skipping
+270|Finger Curls
+271|Flat Bench Cable Flyes
+272|Flat Bench Leg Pull-In
+273|Flat Bench Lying Leg Raise
+274|Flexor Incline Dumbbell Curls
+275|Floor Glute-Ham Raise
+276|Floor Press
+277|Floor Press with Chains
+278|Flutter Kicks
+279|Foot-SMR
+280|Forward Drag with Press
+281|Frankenstein Squat
+282|Freehand Jump Squat
+283|Frog Hops
+284|Frog Sit-Ups
+285|Front Barbell Squat
+286|Front Barbell Squat To A Bench
+287|Front Box Jump
+288|Front Cable Raise
+289|Front Cone Hops (or hurdle hops)
+290|Front Dumbbell Raise
+291|Front Incline Dumbbell Raise
+292|Front Leg Raises
+293|Front Plate Raise
+294|Front Raise And Pullover
+295|Front Squat (Clean Grip)
+296|Front Squats With Two Kettlebells
+297|Front Two-Dumbbell Raise
+298|Full Range-Of-Motion Lat Pulldown
+299|Gironda Sternum Chins
+300|Glute Ham Raise
+301|Glute Kickback
+302|Goblet Squat
+303|Good Morning
+304|Good Morning off Pins
+305|Gorilla Chin/Crunch
+306|Groin and Back Stretch
+307|Groiners
+308|Hack Squat
+309|Hammer Curls
+310|Hammer Grip Incline DB Bench Press
+311|Hamstring-SMR
+312|Hamstring Stretch
+313|Handstand Push-Ups
+314|Hang Clean
+315|Hang Clean - Below the Knees
+316|Hang Snatch
+317|Hang Snatch - Below Knees
+318|Hanging Bar Good Morning
+319|Hanging Leg Raise
+320|Hanging Pike
+321|Heaving Snatch Balance
+322|Heavy Bag Thrust
+323|High Cable Curls
+324|Hip Circles (prone)
+325|Hip Extension with Bands
+326|Hip Flexion with Band
+327|Hip Lift with Band
+328|Hug A Ball
+329|Hug Knees To Chest
+330|Hurdle Hops
+331|Hyperextensions (Back Extensions)
+332|Hyperextensions With No Hyperextension Bench
+333|IT Band and Glute Stretch
+334|Iliotibial Tract-SMR
+335|Inchworm
+336|Incline Barbell Triceps Extension
+337|Incline Bench Pull
+338|Incline Cable Chest Press
+339|Incline Cable Flye
+340|Incline Dumbbell Bench With Palms Facing In
+341|Incline Dumbbell Curl
+342|Incline Dumbbell Flyes
+343|Incline Dumbbell Flyes - With A Twist
+344|Incline Dumbbell Press
+345|Incline Hammer Curls
+346|Incline Inner Biceps Curl
+347|Incline Push-Up
+348|Incline Push-Up Close-Grip
+349|Incline Push-Up Depth Jump
+350|Incline Push-Up Medium
+351|Incline Push-Up Reverse Grip
+352|Incline Push-Up Wide
+353|Intermediate Groin Stretch
+354|Intermediate Hip Flexor and Quad Stretch
+355|Internal Rotation with Band
+356|Inverted Row
+357|Inverted Row with Straps
+358|Iron Cross
+359|Iron Crosses (stretch)
+360|Isometric Chest Squeezes
+361|Isometric Neck Exercise - Front And Back
+362|Isometric Neck Exercise - Sides
+363|Isometric Wipers
+364|JM Press
+365|Jackknife Sit-Up
+366|Janda Sit-Up
+367|Jefferson Squats
+368|Jerk Balance
+369|Jerk Dip Squat
+370|Jogging, Treadmill
+371|Keg Load
+372|Kettlebell Arnold Press
+373|Kettlebell Dead Clean
+374|Kettlebell Figure 8
+375|Kettlebell Halo
+376|Kettlebell Halo with Overhead Extension
+377|Kettlebell Hang Clean
+378|Kettlebell One-Legged Deadlift
+379|Kettlebell Overhead Triceps Extension
+380|Kettlebell Pass Between The Legs
+381|Kettlebell Pirate Ships
+382|Kettlebell Pistol Squat
+383|Kettlebell Seated Press
+384|Kettlebell Seesaw Press
+385|Kettlebell Sumo High Pull
+386|Kettlebell Thruster
+387|Kettlebell Turkish Get-Up (Lunge style)
+388|Kettlebell Turkish Get-Up (Squat style)
+389|Kettlebell Windmill
+390|Kipping Muscle Up
+391|Knee Across The Body
+392|Knee Circles
+393|Knee/Hip Raise On Parallel Bars
+394|Knee Tuck Jump
+395|Kneeling Arm Drill
+396|Kneeling Cable Crunch With Alternating Oblique Twists
+397|Kneeling Cable Triceps Extension
+398|Kneeling Forearm Stretch
+399|Kneeling High Pulley Row
+400|Kneeling Hip Flexor
+401|Kneeling Jump Squat
+402|Kneeling Single-Arm High Pulley Row
+403|Kneeling Squat
+404|Landmine 180's
+405|Landmine Linear Jammer
+406|Lateral Bound
+407|Lateral Box Jump
+408|Lateral Cone Hops
+409|Lateral Raise - With Bands
+410|Latissimus Dorsi-SMR
+411|Leg-Over Floor Press
+412|Leg-Up Hamstring Stretch
+413|Leg Extensions
+414|Leg Lift
+415|Leg Press
+416|Leg Pull-In
+417|Leverage Chest Press
+418|Leverage Deadlift
+419|Leverage Decline Chest Press
+420|Leverage High Row
+421|Leverage Incline Chest Press
+422|Leverage Iso Row
+423|Leverage Shoulder Press
+424|Leverage Shrug
+425|Linear 3-Part Start Technique
+426|Linear Acceleration Wall Drill
+427|Linear Depth Jump
+428|Log Lift
+429|London Bridges
+430|Looking At Ceiling
+431|Low Cable Crossover
+432|Low Cable Triceps Extension
+433|Low Pulley Row To Neck
+434|Lower Back-SMR
+435|Lower Back Curl
+436|Lunge Pass Through
+437|Lunge Sprint
+438|Lying Bent Leg Groin
+439|Lying Cable Curl
+440|Lying Cambered Barbell Row
+441|Lying Close-Grip Bar Curl On High Pulley
+442|Lying Close-Grip Barbell Triceps Extension Behind The Head
+443|Lying Close-Grip Barbell Triceps Press To Chin
+444|Lying Crossover
+445|Lying Dumbbell Tricep Extension
+446|Lying Face Down Plate Neck Resistance
+447|Lying Face Up Plate Neck Resistance
+448|Lying Glute
+449|Lying Hamstring
+450|Lying High Bench Barbell Curl
+451|Lying Leg Curls
+452|Lying Machine Squat
+453|Lying One-Arm Lateral Raise
+454|Lying Prone Quadriceps
+455|Lying Rear Delt Raise
+456|Lying Supine Dumbbell Curl
+457|Lying T-Bar Row
+458|Lying Triceps Press
+459|Machine Bench Press
+460|Machine Bicep Curl
+461|Machine Preacher Curls
+462|Machine Shoulder (Military) Press
+463|Machine Triceps Extension
+464|Medicine Ball Chest Pass
+465|Medicine Ball Full Twist
+466|Medicine Ball Scoop Throw
+467|Middle Back Shrug
+468|Middle Back Stretch
+469|Mixed Grip Chin
+470|Monster Walk
+471|Mountain Climbers
+472|Moving Claw Series
+473|Muscle Snatch
+474|Muscle Up
+475|Narrow Stance Hack Squats
+476|Narrow Stance Leg Press
+477|Narrow Stance Squats
+478|Natural Glute Ham Raise
+479|Neck-SMR
+480|Neck Press
+481|Oblique Crunches
+482|Oblique Crunches - On The Floor
+483|Olympic Squat
+484|On-Your-Back Quad Stretch
+485|On Your Side Quad Stretch
+486|One-Arm Dumbbell Row
+487|One-Arm Flat Bench Dumbbell Flye
+488|One-Arm High-Pulley Cable Side Bends
+489|One-Arm Incline Lateral Raise
+490|One-Arm Kettlebell Clean
+491|One-Arm Kettlebell Clean and Jerk
+492|One-Arm Kettlebell Floor Press
+493|One-Arm Kettlebell Jerk
+494|One-Arm Kettlebell Military Press To The Side
+495|One-Arm Kettlebell Para Press
+496|One-Arm Kettlebell Push Press
+497|One-Arm Kettlebell Row
+498|One-Arm Kettlebell Snatch
+499|One-Arm Kettlebell Split Jerk
+500|One-Arm Kettlebell Split Snatch
+501|One-Arm Kettlebell Swings
+502|One-Arm Long Bar Row
+503|One-Arm Medicine Ball Slam
+504|One-Arm Open Palm Kettlebell Clean
+505|One-Arm Overhead Kettlebell Squats
+506|One-Arm Side Deadlift
+507|One-Arm Side Laterals
+508|One-Legged Cable Kickback
+509|One Arm Against Wall
+510|One Arm Chin-Up
+511|One Arm Dumbbell Bench Press
+512|One Arm Dumbbell Preacher Curl
+513|One Arm Floor Press
+514|One Arm Lat Pulldown
+515|One Arm Pronated Dumbbell Triceps Extension
+516|One Arm Supinated Dumbbell Triceps Extension
+517|One Half Locust
+518|One Handed Hang
+519|One Knee To Chest
+520|One Leg Barbell Squat
+521|Open Palm Kettlebell Clean
+522|Otis-Up
+523|Overhead Cable Curl
+524|Overhead Lat
+525|Overhead Slam
+526|Overhead Squat
+527|Overhead Stretch
+528|Overhead Triceps
+529|Pallof Press
+530|Pallof Press With Rotation
+531|Palms-Down Dumbbell Wrist Curl Over A Bench
+532|Palms-Down Wrist Curl Over A Bench
+533|Palms-Up Barbell Wrist Curl Over A Bench
+534|Palms-Up Dumbbell Wrist Curl Over A Bench
+535|Parallel Bar Dip
+536|Pelvic Tilt Into Bridge
+537|Peroneals-SMR
+538|Peroneals Stretch
+539|Physioball Hip Bridge
+540|Pin Presses
+541|Piriformis-SMR
+542|Plank
+543|Plate Pinch
+544|Plate Twist
+545|Platform Hamstring Slides
+546|Plie Dumbbell Squat
+547|Plyo Kettlebell Pushups
+548|Plyo Push-up
+549|Posterior Tibialis Stretch
+550|Power Clean
+551|Power Clean from Blocks
+552|Power Jerk
+553|Power Partials
+554|Power Snatch
+555|Power Snatch from Blocks
+556|Power Stairs
+557|Preacher Curl
+558|Preacher Hammer Dumbbell Curl
+559|Press Sit-Up
+560|Prone Manual Hamstring
+561|Prowler Sprint
+562|Pull Through
+563|Pullups
+564|Push-Up Wide
+565|Push-Ups - Close Triceps Position
+566|Push-Ups With Feet Elevated
+567|Push-Ups With Feet On An Exercise Ball
+568|Push Press
+569|Push Press - Behind the Neck
+570|Push Up to Side Plank
+571|Pushups
+572|Pushups (Close and Wide Hand Positions)
+573|Pyramid
+574|Quad Stretch
+575|Quadriceps-SMR
+576|Quick Leap
+577|Rack Delivery
+578|Rack Pull with Bands
+579|Rack Pulls
+580|Rear Leg Raises
+581|Recumbent Bike
+582|Return Push from Stance
+583|Reverse Band Bench Press
+584|Reverse Band Box Squat
+585|Reverse Band Deadlift
+586|Reverse Band Power Squat
+587|Reverse Band Sumo Deadlift
+588|Reverse Barbell Curl
+589|Reverse Barbell Preacher Curls
+590|Reverse Cable Curl
+591|Reverse Crunch
+592|Reverse Flyes
+593|Reverse Flyes With External Rotation
+594|Reverse Grip Bent-Over Rows
+595|Reverse Grip Triceps Pushdown
+596|Reverse Hyperextension
+597|Reverse Machine Flyes
+598|Reverse Plate Curls
+599|Reverse Triceps Bench Press
+600|Rhomboids-SMR
+601|Rickshaw Carry
+602|Rickshaw Deadlift
+603|Ring Dips
+604|Rocket Jump
+605|Rocking Standing Calf Raise
+606|Rocky Pull-Ups/Pulldowns
+607|Romanian Deadlift
+608|Romanian Deadlift from Deficit
+609|Rope Climb
+610|Rope Crunch
+611|Rope Jumping
+612|Rope Straight-Arm Pulldown
+613|Round The World Shoulder Stretch
+614|Rowing, Stationary
+615|Runner's Stretch
+616|Running, Treadmill
+617|Russian Twist
+618|Sandbag Load
+619|Scapular Pull-Up
+620|Scissor Kick
+621|Scissors Jump
+622|Seated Band Hamstring Curl
+623|Seated Barbell Military Press
+624|Seated Barbell Twist
+625|Seated Bent-Over One-Arm Dumbbell Triceps Extension
+626|Seated Bent-Over Rear Delt Raise
+627|Seated Bent-Over Two-Arm Dumbbell Triceps Extension
+628|Seated Biceps
+629|Seated Cable Rows
+630|Seated Cable Shoulder Press
+631|Seated Calf Raise
+632|Seated Calf Stretch
+633|Seated Close-Grip Concentration Barbell Curl
+634|Seated Dumbbell Curl
+635|Seated Dumbbell Inner Biceps Curl
+636|Seated Dumbbell Palms-Down Wrist Curl
+637|Seated Dumbbell Palms-Up Wrist Curl
+638|Seated Dumbbell Press
+639|Seated Flat Bench Leg Pull-In
+640|Seated Floor Hamstring Stretch
+641|Seated Front Deltoid
+642|Seated Glute
+643|Seated Good Mornings
+644|Seated Hamstring
+645|Seated Hamstring and Calf Stretch
+646|Seated Head Harness Neck Resistance
+647|Seated Leg Curl
+648|Seated Leg Tucks
+649|Seated One-Arm Dumbbell Palms-Down Wrist Curl
+650|Seated One-Arm Dumbbell Palms-Up Wrist Curl
+651|Seated One-arm Cable Pulley Rows
+652|Seated Overhead Stretch
+653|Seated Palm-Up Barbell Wrist Curl
+654|Seated Palms-Down Barbell Wrist Curl
+655|Seated Side Lateral Raise
+656|Seated Triceps Press
+657|Seated Two-Arm Palms-Up Low-Pulley Wrist Curl
+658|See-Saw Press (Alternating Side Press)
+659|Shotgun Row
+660|Shoulder Circles
+661|Shoulder Press - With Bands
+662|Shoulder Raise
+663|Shoulder Stretch
+664|Side-Lying Floor Stretch
+665|Side Bridge
+666|Side Hop-Sprint
+667|Side Jackknife
+668|Side Lateral Raise
+669|Side Laterals to Front Raise
+670|Side Leg Raises
+671|Side Lying Groin Stretch
+672|Side Neck Stretch
+673|Side Standing Long Jump
+674|Side To Side Chins
+675|Side Wrist Pull
+676|Side to Side Box Shuffle
+677|Single-Arm Cable Crossover
+678|Single-Arm Linear Jammer
+679|Single-Arm Push-Up
+680|Single-Cone Sprint Drill
+681|Single-Leg High Box Squat
+682|Single-Leg Hop Progression
+683|Single-Leg Lateral Hop
+684|Single-Leg Leg Extension
+685|Single-Leg Stride Jump
+686|Single Dumbbell Raise
+687|Single Leg Butt Kick
+688|Single Leg Glute Bridge
+689|Single Leg Push-off
+690|Sit-Up
+691|Sit Squats
+692|Skating
+693|Sled Drag - Harness
+694|Sled Overhead Backward Walk
+695|Sled Overhead Triceps Extension
+696|Sled Push
+697|Sled Reverse Flye
+698|Sled Row
+699|Sledgehammer Swings
+700|Smith Incline Shoulder Raise
+701|Smith Machine Behind the Back Shrug
+702|Smith Machine Bench Press
+703|Smith Machine Bent Over Row
+704|Smith Machine Calf Raise
+705|Smith Machine Close-Grip Bench Press
+706|Smith Machine Decline Press
+707|Smith Machine Hang Power Clean
+708|Smith Machine Hip Raise
+709|Smith Machine Incline Bench Press
+710|Smith Machine Leg Press
+711|Smith Machine One-Arm Upright Row
+712|Smith Machine Overhead Shoulder Press
+713|Smith Machine Pistol Squat
+714|Smith Machine Reverse Calf Raises
+715|Smith Machine Squat
+716|Smith Machine Stiff-Legged Deadlift
+717|Smith Machine Upright Row
+718|Smith Single-Leg Split Squat
+719|Snatch
+720|Snatch Balance
+721|Snatch Deadlift
+722|Snatch Pull
+723|Snatch Shrug
+724|Snatch from Blocks
+725|Speed Band Overhead Triceps
+726|Speed Box Squat
+727|Speed Squats
+728|Spell Caster
+729|Spider Crawl
+730|Spider Curl
+731|Spinal Stretch
+732|Split Clean
+733|Split Jerk
+734|Split Jump
+735|Split Snatch
+736|Split Squat with Dumbbells
+737|Split Squats
+738|Squat Jerk
+739|Squat with Bands
+740|Squat with Chains
+741|Squat with Plate Movers
+742|Squats - With Bands
+743|Stairmaster
+744|Standing Alternating Dumbbell Press
+745|Standing Barbell Calf Raise
+746|Standing Barbell Press Behind Neck
+747|Standing Bent-Over One-Arm Dumbbell Triceps Extension
+748|Standing Bent-Over Two-Arm Dumbbell Triceps Extension
+749|Standing Biceps Cable Curl
+750|Standing Biceps Stretch
+751|Standing Bradford Press
+752|Standing Cable Chest Press
+753|Standing Cable Lift
+754|Standing Cable Wood Chop
+755|Standing Calf Raises
+756|Standing Concentration Curl
+757|Standing Dumbbell Calf Raise
+758|Standing Dumbbell Press
+759|Standing Dumbbell Reverse Curl
+760|Standing Dumbbell Straight-Arm Front Delt Raise Above Head
+761|Standing Dumbbell Triceps Extension
+762|Standing Dumbbell Upright Row
+763|Standing Elevated Quad Stretch
+764|Standing Front Barbell Raise Over Head
+765|Standing Gastrocnemius Calf Stretch
+766|Standing Hamstring and Calf Stretch
+767|Standing Hip Circles
+768|Standing Hip Flexors
+769|Standing Inner-Biceps Curl
+770|Standing Lateral Stretch
+771|Standing Leg Curl
+772|Standing Long Jump
+773|Standing Low-Pulley Deltoid Raise
+774|Standing Low-Pulley One-Arm Triceps Extension
+775|Standing Military Press
+776|Standing Olympic Plate Hand Squeeze
+777|Standing One-Arm Cable Curl
+778|Standing One-Arm Dumbbell Curl Over Incline Bench
+779|Standing One-Arm Dumbbell Triceps Extension
+780|Standing Overhead Barbell Triceps Extension
+781|Standing Palm-In One-Arm Dumbbell Press
+782|Standing Palms-In Dumbbell Press
+783|Standing Palms-Up Barbell Behind The Back Wrist Curl
+784|Standing Pelvic Tilt
+785|Standing Rope Crunch
+786|Standing Soleus And Achilles Stretch
+787|Standing Toe Touches
+788|Standing Towel Triceps Extension
+789|Standing Two-Arm Overhead Throw
+790|Star Jump
+791|Step-up with Knee Raise
+792|Step Mill
+793|Stiff-Legged Barbell Deadlift
+794|Stiff-Legged Dumbbell Deadlift
+795|Stiff Leg Barbell Good Morning
+796|Stomach Vacuum
+797|Straight-Arm Dumbbell Pullover
+798|Straight-Arm Pulldown
+799|Straight Bar Bench Mid Rows
+800|Straight Raises on Incline Bench
+801|Stride Jump Crossover
+802|Sumo Deadlift
+803|Sumo Deadlift with Bands
+804|Sumo Deadlift with Chains
+805|Superman
+806|Supine Chest Throw
+807|Supine One-Arm Overhead Throw
+808|Supine Two-Arm Overhead Throw
+809|Suspended Fallout
+810|Suspended Push-Up
+811|Suspended Reverse Crunch
+812|Suspended Row
+813|Suspended Split Squat
+814|Svend Press
+815|T-Bar Row with Handle
+816|Tate Press
+817|The Straddle
+818|Thigh Abductor
+819|Thigh Adductor
+820|Tire Flip
+821|Toe Touchers
+822|Torso Rotation
+823|Trail Running/Walking
+824|Trap Bar Deadlift
+825|Tricep Dumbbell Kickback
+826|Tricep Side Stretch
+827|Triceps Overhead Extension with Rope
+828|Triceps Pushdown
+829|Triceps Pushdown - Rope Attachment
+830|Triceps Pushdown - V-Bar Attachment
+831|Triceps Stretch
+832|Tuck Crunch
+833|Two-Arm Dumbbell Preacher Curl
+834|Two-Arm Kettlebell Clean
+835|Two-Arm Kettlebell Jerk
+836|Two-Arm Kettlebell Military Press
+837|Two-Arm Kettlebell Row
+838|Underhand Cable Pulldowns
+839|Upper Back-Leg Grab
+840|Upper Back Stretch
+841|Upright Barbell Row
+842|Upright Cable Row
+843|Upright Row - With Bands
+844|Upward Stretch
+845|V-Bar Pulldown
+846|V-Bar Pullup
+847|Vertical Swing
+848|Walking, Treadmill
+849|Weighted Ball Hyperextension
+850|Weighted Ball Side Bend
+851|Weighted Bench Dip
+852|Weighted Crunches
+853|Weighted Jump Squat
+854|Weighted Pull Ups
+855|Weighted Sissy Squat
+856|Weighted Sit-Ups - With Bands
+857|Weighted Squat
+858|Wide-Grip Barbell Bench Press
+859|Wide-Grip Decline Barbell Bench Press
+860|Wide-Grip Decline Barbell Pullover
+861|Wide-Grip Lat Pulldown
+862|Wide-Grip Pulldown Behind The Neck
+863|Wide-Grip Rear Pull-Up
+864|Wide-Grip Standing Barbell Curl
+865|Wide Stance Barbell Squat
+866|Wide Stance Stiff Legs
+867|Wind Sprints
+868|Windmills
+869|World's Greatest Stretch
+870|Wrist Circles
+871|Wrist Roller
+872|Wrist Rotations with Straight Bar
+873|Yoke Walk
+874|Zercher Squats
+875|Zottman Curl
+876|Zottman Preacher Curl

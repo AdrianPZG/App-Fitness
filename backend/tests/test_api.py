@@ -76,3 +76,10 @@ def test_firebase_token_verification(monkeypatch):
         assert c.get("/v1/me/profile", headers={"Authorization": "Bearer dev:abc"}).status_code == 401
         assert c.get("/v1/me/profile", headers={"Authorization": "Bearer basura"}).status_code == 401
         assert c.get("/v1/me/profile", headers={"Authorization": "Bearer otro-emisor"}).status_code == 401
+
+
+def test_subscription_status():
+    with TestClient(app) as c:
+        r = c.get("/v1/me/subscription", headers=H)
+        assert r.status_code == 200 and r.json()["status"] in ("none", "trial", "active")
+        assert r.json()["price_mxn"] == 50

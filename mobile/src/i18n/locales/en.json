@@ -4,14 +4,28 @@
     "train": "Train",
     "nutrition": "Nutrition",
     "wellbeing": "Wellbeing",
-    "profile": "Profile"
+    "profile": "Profile",
+    "index": "Today",
+    "routines": "Routines",
+    "diet": "Diet",
+    "watch": "Watch"
   },
   "today": {
     "title": "Today",
     "empty": "You don't have an active plan yet.",
     "choosePlan": "Choose a plan",
     "workout": "Today: {{kind}}",
-    "rest": "Today is a rest day."
+    "rest": "Today is a rest day.",
+    "greetingName": "Hi, {{name}}",
+    "greetingPlain": "Hi there",
+    "workoutLabel": "WORKOUT",
+    "exerciseCount": "{{count}} exercises",
+    "yourWeek": "YOUR WEEK",
+    "daysPerWeek": "{{count}} days/week",
+    "level": "Level",
+    "kcalGoal": "kcal goal",
+    "sessionTitle": "Today's session",
+    "viewPlan": "View plan"
   },
   "train": {
     "title": "Train",
@@ -46,7 +60,12 @@
     "menuToday": "Today's menu",
     "otherOptions": "Other options",
     "vegetarian": "Vegetarian",
-    "menuTotal": "Menu total: {{kcal}} kcal (target {{target}} kcal)"
+    "menuTotal": "Menu total: {{kcal}} kcal (target {{target}} kcal)",
+    "eyebrow": "Daily nutrition",
+    "estimatedGoal": "ESTIMATED GOAL",
+    "dailyTarget": "Daily estimate based on your profile.",
+    "todayMenu": "Today's menu",
+    "balanced": "Balanced"
   },
   "wellbeing": {
     "title": "Wellbeing",
@@ -64,7 +83,27 @@
     "language": "Language",
     "subscription": "Subscription",
     "trial": "7 days free, then 50 MXN per month",
-    "signOut": "Sign out"
+    "signOut": "Sign out",
+    "eyebrow": "Your account",
+    "themeDark": "Dark",
+    "themeLight": "Light",
+    "themeSystem": "System",
+    "trialDays": "Free trial · {{count}} days left",
+    "activePlan": "Active subscription",
+    "noPlan": "No active subscription",
+    "personalData": "Personal data",
+    "notifications": "Notifications",
+    "comingSoon": "Coming soon",
+    "noName": "No name",
+    "planLabel": "PLAN",
+    "priceLine": "Then ${{price}} MXN a month. Cancel anytime.",
+    "appearance": "Appearance",
+    "appMode": "App mode",
+    "appModeDetail": "Choose how you want to see the app.",
+    "account": "Account",
+    "export": "Export my data",
+    "version": "Version 1.0 · Your data is stored securely.",
+    "editTitle": "Edit profile"
   },
   "goals": {
     "lose_weight": "Lose weight",
@@ -75,7 +114,9 @@
     "eat_better": "Improve my eating"
   },
   "common": {
-    "error": "Couldn't reach the server."
+    "error": "Couldn't reach the server.",
+    "or": "or",
+    "back": "Back"
   },
   "auth": {
     "welcome": "Welcome",
@@ -102,7 +143,8 @@
       "network": "No connection. Check your internet.",
       "enterEmail": "Enter your email to reset your password.",
       "generic": "We couldn't complete that. Please try again."
-    }
+    },
+    "eyebrow": "YOUR PERSONAL SPACE"
   },
   "onboarding": {
     "title": "Tell us about you",
@@ -116,7 +158,11 @@
     "activity": "Current activity level",
     "equipment": "Where do you train",
     "home": "At home",
-    "gym": "Gym"
+    "gym": "Gym",
+    "step": "STEP 1 OF 1",
+    "subtitle": "We'll use this to build a plan that fits you.",
+    "metricsHint": "Height (cm) · Weight (kg) · Age",
+    "incomplete": "Fill in every field to continue."
   },
   "activity": {
     "sedentary": "Sedentary (little or no exercise)",
@@ -150,7 +196,8 @@
     "equipment": "Equipment",
     "level": "Level",
     "steps": "How to do it",
-    "lockedInfo": "Instructions for this exercise are available with a subscription."
+    "lockedInfo": "Instructions for this exercise are available with a subscription.",
+    "eyebrow": "Exercise detail"
   },
   "muscle": {
     "abdominals": "Abs",
@@ -195,6 +242,79 @@
     "time": "Prep time",
     "portion": "Portion",
     "ingredients": "Ingredients",
-    "steps": "Step by step"
+    "steps": "Step by step",
+    "done": "Mark as made"
+  },
+  "routines": {
+    "eyebrow": "Weekly plan",
+    "yourProgram": "YOUR PROGRAM",
+    "day": "Day {{n}}",
+    "exerciseCount": "{{count}} exercises",
+    "startSession": "Start",
+    "library": "Library",
+    "unlockBody": "Unlock the full library with your free trial.",
+    "unlock": "Unlock",
+    "attribution": "Exercises from free-exercise-db (public domain, Unlicense)."
+  },
+  "watch": {
+    "eyebrow": "Connected data",
+    "heroTitle": "Your movement, in one place.",
+    "heroBody": "Connect your watch so your steps, workouts and rest show up automatically.",
+    "connectDevice": "Connect a device",
+    "device": {
+      "apple": {
+        "name": "Apple Health",
+        "detail": "Steps, heart rate, workouts, sleep"
+      },
+      "google": {
+        "name": "Google Fit / Wear OS",
+        "detail": "Steps, workouts and sleep"
+      },
+      "garmin": {
+        "name": "Garmin Connect",
+        "detail": "Workouts, heart rate and steps"
+      }
+    },
+    "syncing": "Syncing active on this device",
+    "active": "Active",
+    "connect": "Connect",
+    "steps": "Steps",
+    "heartRate": "Heart rate",
+    "sleep": "Sleep",
+    "privacyTitle": "Your privacy matters",
+    "privacyBody": "We only sync the data you choose to share.",
+    "reminderSaved": "Reminder saved",
+    "later": "Connect later"
+  },
+  "subscribe": {
+    "title": "Train without limits.",
+    "subtitle": "Unlock full plans, step-by-step instructions and a menu that adapts to your goal.",
+    "feature": {
+      "plans": "Personalized weekly plans",
+      "library": "Full exercise library",
+      "recipes": "Recipes with portions and macros",
+      "trial": "Free 7-day trial"
+    },
+    "close": "Got it",
+    "priceLine": "${{price}} MXN a month after the free trial.",
+    "notLive": "In-app billing isn't live yet.",
+    "cta": "See plans"
+  },
+  "workout": {
+    "eyebrow": "Session detail",
+    "heroTitle": "Session {{n}} · focus on form.",
+    "duration": "Duration",
+    "minutes": "{{count}} min",
+    "level": "Level",
+    "goal": "Goal",
+    "progress": "PROGRESS",
+    "exercisesOf": "{{done}}/{{total}} exercises",
+    "focusToday": "TODAY'S FOCUS",
+    "focusTip": "Control before speed.",
+    "restTip": "Rest between sets and keep one rep in reserve.",
+    "targetMuscles": "Target muscles",
+    "includedExercises": "Included exercises",
+    "markStart": "Start session",
+    "tapHint": "You can check off each exercise as you go."
   }
 }

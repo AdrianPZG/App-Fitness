@@ -4,14 +4,28 @@
     "train": "Entrenar",
     "nutrition": "Nutrición",
     "wellbeing": "Bienestar",
-    "profile": "Perfil"
+    "profile": "Perfil",
+    "index": "Inicio",
+    "routines": "Rutinas",
+    "diet": "Dieta",
+    "watch": "Reloj"
   },
   "today": {
     "title": "Hoy",
     "empty": "Aún no tienes un plan activo.",
     "choosePlan": "Elegir un plan",
     "workout": "Hoy toca: {{kind}}",
-    "rest": "Hoy es día de descanso."
+    "rest": "Hoy es día de descanso.",
+    "greetingName": "Hola, {{name}}",
+    "greetingPlain": "Hola",
+    "workoutLabel": "ENTRENAMIENTO",
+    "exerciseCount": "{{count}} ejercicios",
+    "yourWeek": "TU SEMANA",
+    "daysPerWeek": "{{count}} días/semana",
+    "level": "Nivel",
+    "kcalGoal": "meta kcal",
+    "sessionTitle": "Sesión de hoy",
+    "viewPlan": "Ver plan"
   },
   "train": {
     "title": "Entrenar",
@@ -46,7 +60,12 @@
     "menuToday": "Menú de hoy",
     "otherOptions": "Otras opciones",
     "vegetarian": "Vegetariano",
-    "menuTotal": "Total del menú: {{kcal}} kcal (meta {{target}} kcal)"
+    "menuTotal": "Total del menú: {{kcal}} kcal (meta {{target}} kcal)",
+    "eyebrow": "Nutrición diaria",
+    "estimatedGoal": "META ESTIMADA",
+    "dailyTarget": "Estimación diaria según tu perfil.",
+    "todayMenu": "Menú de hoy",
+    "balanced": "Equilibrado"
   },
   "wellbeing": {
     "title": "Bienestar",
@@ -64,7 +83,27 @@
     "language": "Idioma",
     "subscription": "Suscripción",
     "trial": "7 días gratis, después 50 MXN al mes",
-    "signOut": "Cerrar sesión"
+    "signOut": "Cerrar sesión",
+    "eyebrow": "Tu cuenta",
+    "themeDark": "Oscuro",
+    "themeLight": "Claro",
+    "themeSystem": "Sistema",
+    "trialDays": "Prueba gratuita · {{count}} días restantes",
+    "activePlan": "Suscripción activa",
+    "noPlan": "Sin suscripción activa",
+    "personalData": "Datos personales",
+    "notifications": "Notificaciones",
+    "comingSoon": "Próximamente",
+    "noName": "Sin nombre",
+    "planLabel": "PLAN",
+    "priceLine": "Después ${{price}} MXN al mes. Cancela cuando quieras.",
+    "appearance": "Apariencia",
+    "appMode": "Modo de la app",
+    "appModeDetail": "Elige cómo quieres ver la app.",
+    "account": "Cuenta",
+    "export": "Exportar mis datos",
+    "version": "Versión 1.0 · Tus datos se guardan de forma segura.",
+    "editTitle": "Editar perfil"
   },
   "goals": {
     "lose_weight": "Perder peso",
@@ -75,7 +114,9 @@
     "eat_better": "Mejorar mi alimentación"
   },
   "common": {
-    "error": "No se pudo conectar con el servidor."
+    "error": "No se pudo conectar con el servidor.",
+    "or": "o",
+    "back": "Atrás"
   },
   "auth": {
     "welcome": "Bienvenido",
@@ -102,7 +143,8 @@
       "network": "Sin conexión. Revisa tu internet.",
       "enterEmail": "Escribe tu correo para restablecer la contraseña.",
       "generic": "No pudimos completar la acción. Inténtalo de nuevo."
-    }
+    },
+    "eyebrow": "TU ESPACIO PERSONAL"
   },
   "onboarding": {
     "title": "Cuéntanos sobre ti",
@@ -116,7 +158,11 @@
     "activity": "Nivel de actividad actual",
     "equipment": "Dónde entrenas",
     "home": "En casa",
-    "gym": "Gimnasio"
+    "gym": "Gimnasio",
+    "step": "PASO 1 DE 1",
+    "subtitle": "Usaremos estos datos para crear un plan que se adapte a ti.",
+    "metricsHint": "Altura (cm) · Peso (kg) · Edad",
+    "incomplete": "Completa todos los campos para continuar."
   },
   "activity": {
     "sedentary": "Sedentario (poco o nada de ejercicio)",
@@ -150,7 +196,8 @@
     "equipment": "Equipo",
     "level": "Nivel",
     "steps": "Cómo hacerlo",
-    "lockedInfo": "Las instrucciones de este ejercicio están disponibles con suscripción."
+    "lockedInfo": "Las instrucciones de este ejercicio están disponibles con suscripción.",
+    "eyebrow": "Detalle de ejercicio"
   },
   "muscle": {
     "abdominals": "Abdomen",
@@ -195,6 +242,79 @@
     "time": "Preparación",
     "portion": "Porción",
     "ingredients": "Ingredientes",
-    "steps": "Paso a paso"
+    "steps": "Paso a paso",
+    "done": "Marcar como preparada"
+  },
+  "routines": {
+    "eyebrow": "Plan semanal",
+    "yourProgram": "TU PROGRAMA",
+    "day": "Día {{n}}",
+    "exerciseCount": "{{count}} ejercicios",
+    "startSession": "Empezar",
+    "library": "Biblioteca",
+    "unlockBody": "Desbloquea la biblioteca completa con tu prueba gratuita.",
+    "unlock": "Desbloquear",
+    "attribution": "Ejercicios de free-exercise-db (dominio público, licencia Unlicense)."
+  },
+  "watch": {
+    "eyebrow": "Datos conectados",
+    "heroTitle": "Tu movimiento, en un solo lugar.",
+    "heroBody": "Conecta tu reloj para que tus pasos, entrenamientos y descanso se reflejen automáticamente.",
+    "connectDevice": "Conectar un dispositivo",
+    "device": {
+      "apple": {
+        "name": "Apple Health",
+        "detail": "Pasos, ritmo cardiaco, entrenamientos, sueño"
+      },
+      "google": {
+        "name": "Google Fit / Wear OS",
+        "detail": "Pasos, entrenamientos y sueño"
+      },
+      "garmin": {
+        "name": "Garmin Connect",
+        "detail": "Entrenamientos, ritmo cardiaco y pasos"
+      }
+    },
+    "syncing": "Sincronización activa en este dispositivo",
+    "active": "Activo",
+    "connect": "Conectar",
+    "steps": "Pasos",
+    "heartRate": "Ritmo",
+    "sleep": "Sueño",
+    "privacyTitle": "Tu privacidad importa",
+    "privacyBody": "Solo sincronizamos los datos que elijas compartir.",
+    "reminderSaved": "Recordatorio guardado",
+    "later": "Conectar más adelante"
+  },
+  "subscribe": {
+    "title": "Entrena sin límites.",
+    "subtitle": "Desbloquea planes completos, instrucciones paso a paso y el menú que se adapta a tu objetivo.",
+    "feature": {
+      "plans": "Planes semanales personalizados",
+      "library": "Biblioteca completa de ejercicios",
+      "recipes": "Recetas con porciones y macros",
+      "trial": "Prueba gratis durante 7 días"
+    },
+    "close": "Entendido",
+    "priceLine": "${{price}} MXN al mes tras la prueba gratuita.",
+    "notLive": "El cobro dentro de la app aún no está activo.",
+    "cta": "Ver planes"
+  },
+  "workout": {
+    "eyebrow": "Detalle de sesión",
+    "heroTitle": "Sesión {{n}} · enfócate en la técnica.",
+    "duration": "Duración",
+    "minutes": "{{count}} min",
+    "level": "Nivel",
+    "goal": "Objetivo",
+    "progress": "PROGRESO",
+    "exercisesOf": "{{done}}/{{total}} ejercicios",
+    "focusToday": "ENFOQUE DE HOY",
+    "focusTip": "Control antes que velocidad.",
+    "restTip": "Descansa entre series y mantén una repetición en reserva.",
+    "targetMuscles": "Músculos objetivo",
+    "includedExercises": "Ejercicios incluidos",
+    "markStart": "Comenzar sesión",
+    "tapHint": "Puedes marcar cada ejercicio mientras avanzas."
   }
 }
